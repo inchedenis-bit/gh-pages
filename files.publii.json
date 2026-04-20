@@ -212,7 +212,7 @@
     {
         "path": "/contact-us/index.html",
         "type": "file",
-        "md5": "be95312233f669c91aa6c0c802e37582"
+        "md5": "7b7be48403af2017c1b7c3f3b6403378"
     },
     {
         "path": "dr-james-ochieng",
@@ -3827,7 +3827,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "67e9a9c9abd82ed9154f23f305bd9e28"
+        "md5": "4bd0bd98c69eb03591b72f69a0fba6b6"
     },
     {
         "path": "sitemap.xsl",
@@ -3885,14 +3885,14 @@
         "md5": "31e2fa18ee0f8ead7e148e0693f7c632"
     },
     {
-        "path": "thank-you",
+        "path": "thank-you-2",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/thank-you/index.html",
+        "path": "/thank-you-2/index.html",
         "type": "file",
-        "md5": "f04645a2173493c5f82eea22d2887bcf"
+        "md5": "b9103aece9c33e6c689207678e16a0bc"
     },
     {
         "path": "the-alkaline-diet-delusion-why-selling-vegetables-as-medicine-misses-the-point",
