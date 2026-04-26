@@ -2,7 +2,17 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "32f68674f98df8c57654e4d0753b3abc"
+        "md5": "0b490ed283ec689a55fb82d40f3ce098"
+    },
+    {
+        "path": "a-canadian-scientist-visits-kenyan-and-south-african-salt-sources-dr-sarah-chen-collects-samples-for-analysis",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/a-canadian-scientist-visits-kenyan-and-south-african-salt-sources-dr-sarah-chen-collects-samples-for-analysis/index.html",
+        "type": "file",
+        "md5": "20cf5040b2a81800fae5cb5920a2d822"
     },
     {
         "path": "accumulation-theory-why-modern-humans-are-walking-repositories-of-toxins",
@@ -12,7 +22,7 @@
     {
         "path": "/accumulation-theory-why-modern-humans-are-walking-repositories-of-toxins/index.html",
         "type": "file",
-        "md5": "5a200926484cf8116bc4a3db364b9684"
+        "md5": "7cb4b38f3b1b4a22c885d7ab4e345990"
     },
     {
         "path": "assets",
@@ -127,7 +137,7 @@
     {
         "path": "/authors/inche-denis/index.html",
         "type": "file",
-        "md5": "20d5b70d10cd8ecfd40ac5a103ff861e"
+        "md5": "0544d2fc14e40d6599436290cca9c6c5"
     },
     {
         "path": "authors/inche-denis/page",
@@ -142,7 +152,7 @@
     {
         "path": "/authors/inche-denis/page/2/index.html",
         "type": "file",
-        "md5": "61632c9d3579504738f2d313676dfb73"
+        "md5": "0407fcd0ae8c58e035ac5d4f685d5643"
     },
     {
         "path": "baleni-spring-salt",
@@ -152,7 +162,7 @@
     {
         "path": "/baleni-spring-salt/index.html",
         "type": "file",
-        "md5": "160b8ca10bc455e2bbe6391160668e2a"
+        "md5": "dd8fd8d10e27255269701dac856026c8"
     },
     {
         "path": "basic-vs-rotational-which-path-is-right-for-you",
@@ -162,7 +172,7 @@
     {
         "path": "/basic-vs-rotational-which-path-is-right-for-you/index.html",
         "type": "file",
-        "md5": "c0c62c2b1ab21fef86c86bf892f847d9"
+        "md5": "f629cbd4095a2dbffcf52a44c31f125b"
     },
     {
         "path": "bilma-niger-salt",
@@ -172,7 +182,7 @@
     {
         "path": "/bilma-niger-salt/index.html",
         "type": "file",
-        "md5": "40937366b49f17cfc06a90baa49db3e8"
+        "md5": "508357fd5278ec4806426595f7e50636"
     },
     {
         "path": "bokes-black-salt",
@@ -182,7 +192,7 @@
     {
         "path": "/bokes-black-salt/index.html",
         "type": "file",
-        "md5": "4bdf3213f23b77006afc0da1845bdd0f"
+        "md5": "7fecfe2794be4dcc0f94b51c4460f339"
     },
     {
         "path": "broth-as-medicine",
@@ -192,7 +202,7 @@
     {
         "path": "/broth-as-medicine/index.html",
         "type": "file",
-        "md5": "e2fa139cc7f761bdeb8c65ac399c8424"
+        "md5": "43e7dc73f0dd205af442bf3ecce88de9"
     },
     {
         "path": "broth-sourcing-guide",
@@ -202,7 +212,7 @@
     {
         "path": "/broth-sourcing-guide/index.html",
         "type": "file",
-        "md5": "a074757f6f6a57b7e6fb10998136822b"
+        "md5": "fd39c86c891716782f22a3ac5816e945"
     },
     {
         "path": "clinical-trials-and-evidence",
@@ -212,7 +222,7 @@
     {
         "path": "/clinical-trials-and-evidence/index.html",
         "type": "file",
-        "md5": "3306c85f562f86bb4cd3b3f230daaec0"
+        "md5": "6880b4e4a853900373791879349a2efd"
     },
     {
         "path": "contact-us",
@@ -222,7 +232,7 @@
     {
         "path": "/contact-us/index.html",
         "type": "file",
-        "md5": "ae29292447d0d7e2fe531ce5ac8000d9"
+        "md5": "987f4f98cec19d2c741ed54560e86b2b"
     },
     {
         "path": "dr-james-ochieng",
@@ -232,7 +242,7 @@
     {
         "path": "/dr-james-ochieng/index.html",
         "type": "file",
-        "md5": "c00ae8e1636822291b8c6fc6cd4bea06"
+        "md5": "618bddcca2093da0541d8d17f030fc94"
     },
     {
         "path": "ebara-salt",
@@ -242,7 +252,7 @@
     {
         "path": "/ebara-salt/index.html",
         "type": "file",
-        "md5": "d46280cad8db531d49591dce1bf2ed54"
+        "md5": "c4f134c50a3e52faeb65764d6965b993"
     },
     {
         "path": "faqs",
@@ -252,7 +262,7 @@
     {
         "path": "/faqs/index.html",
         "type": "file",
-        "md5": "74cf134f9e2038d2eb2d32261222ae89"
+        "md5": "373c7ecf92c8274c1dd9067bbe94db78"
     },
     {
         "path": "faqs-practical-implementation",
@@ -262,7 +272,7 @@
     {
         "path": "/faqs-practical-implementation/index.html",
         "type": "file",
-        "md5": "92c97833a5d26476b72f4b2491521e3f"
+        "md5": "91f134aa0e67b68afb16a2ab2dfcb3ec"
     },
     {
         "path": "faqs-safety-questions",
@@ -272,7 +282,7 @@
     {
         "path": "/faqs-safety-questions/index.html",
         "type": "file",
-        "md5": "fc07b2bcdf5bc11937282108b1a976f0"
+        "md5": "b61d7f597d2d6266ae1fe1146ad3fa1c"
     },
     {
         "path": "faqs-science-questions",
@@ -282,7 +292,7 @@
     {
         "path": "/faqs-science-questions/index.html",
         "type": "file",
-        "md5": "cfd3eee1e960f72e0db5b67fe6a81fd2"
+        "md5": "e56f26b97a22061cdb7a1bcea824cd83"
     },
     {
         "path": "farim-salt",
@@ -292,7 +302,7 @@
     {
         "path": "/farim-salt/index.html",
         "type": "file",
-        "md5": "762eec6020052d6cf894fb94447d2cd3"
+        "md5": "41bab608183f41ac180bcb5abc658ad2"
     },
     {
         "path": "fasting-safety",
@@ -302,17 +312,17 @@
     {
         "path": "/fasting-safety/index.html",
         "type": "file",
-        "md5": "6157240e18b527a1c72345f6468bcebc"
+        "md5": "e86ca8d3b55aaff2e335feaae4e7c31d"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "ed23e6cccea708181950d3e22b63c528"
+        "md5": "3eff2ef9c486857f8080c6b4dd6b31c9"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "2ab123a4fb38ec2c864de5dbd547edf3"
+        "md5": "619ba695c94cd7caf01a2d39ac62a78b"
     },
     {
         "path": "food-interference-list",
@@ -322,7 +332,7 @@
     {
         "path": "/food-interference-list/index.html",
         "type": "file",
-        "md5": "00ce29ee362d0ad1787cdac052a03130"
+        "md5": "5f323016dac387e3e336a78aa17be218"
     },
     {
         "path": "foods-to-avoid",
@@ -332,7 +342,7 @@
     {
         "path": "/foods-to-avoid/index.html",
         "type": "file",
-        "md5": "af04d40dd34f5faf5ea17247d782d2bb"
+        "md5": "fe71df16cd610c3057077817d083fa3a"
     },
     {
         "path": "glossary-of-terms",
@@ -342,7 +352,7 @@
     {
         "path": "/glossary-of-terms/index.html",
         "type": "file",
-        "md5": "50c6e31d162081326650f57b0e8e6d49"
+        "md5": "a5f9f19102483f74526ff81cbda53371"
     },
     {
         "path": "how-fasting-and-bones-of-indigenous-cattle-restored-what-herbs-and-diets-couldnt",
@@ -352,7 +362,7 @@
     {
         "path": "/how-fasting-and-bones-of-indigenous-cattle-restored-what-herbs-and-diets-couldnt/index.html",
         "type": "file",
-        "md5": "47bf56a41ead50239f1660b4e252024f"
+        "md5": "08e865ba1f0bf6ebbd4a8e3d538d42dd"
     },
     {
         "path": "how-where-a-cow-lived-determines-what-medicine-its-bones-carry-and-how-they-interact-with-specific-salts",
@@ -362,12 +372,12 @@
     {
         "path": "/how-where-a-cow-lived-determines-what-medicine-its-bones-carry-and-how-they-interact-with-specific-salts/index.html",
         "type": "file",
-        "md5": "aef4655aef9a36fd4a7d6939ac228523"
+        "md5": "9b6de3494fd41aaae118aee151181b12"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "2ce1a3708c3c004b6a56f393b8df4aa6"
+        "md5": "0852ccbacbbb23ac9b5e96c044eeb376"
     },
     {
         "path": "lebek-salt",
@@ -377,7 +387,7 @@
     {
         "path": "/lebek-salt/index.html",
         "type": "file",
-        "md5": "d86541a0a6da8626f727dfb48eab1521"
+        "md5": "4c3dc6f9298ad39dd71889629cfa907b"
     },
     {
         "path": "media",
@@ -3485,6 +3495,271 @@
         "md5": "e514661544b7d54af2be46600c70906c"
     },
     {
+        "path": "media/posts/65",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/65/Dr-Chen-Hero-Image.png",
+        "type": "file",
+        "md5": "43142bed72ebfe72a624c18adae39bfd"
+    },
+    {
+        "path": "/media/posts/65/Dr.-Chen-Hands.png",
+        "type": "file",
+        "md5": "4926dacec85bbba2c5cbdd674c7a7ae7"
+    },
+    {
+        "path": "/media/posts/65/Dr.-Chen.png",
+        "type": "file",
+        "md5": "8e06cae1e90d4287a47f6c137d19b79e"
+    },
+    {
+        "path": "media/posts/65/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/65/responsive/Dr-Chen-Hero-Image-2xl.webp",
+        "type": "file",
+        "md5": "08b22f4d650ac295799e66b5e6f779ae"
+    },
+    {
+        "path": "/media/posts/65/responsive/Dr-Chen-Hero-Image-lg.webp",
+        "type": "file",
+        "md5": "a74c230ca0e8ae7e10c2e4e1a16f88ab"
+    },
+    {
+        "path": "/media/posts/65/responsive/Dr-Chen-Hero-Image-md.webp",
+        "type": "file",
+        "md5": "a5bacb4c31a07f1faea0316778ce63e5"
+    },
+    {
+        "path": "/media/posts/65/responsive/Dr-Chen-Hero-Image-sm.webp",
+        "type": "file",
+        "md5": "c8ce3324909abdfea062bc05c9cd8c47"
+    },
+    {
+        "path": "/media/posts/65/responsive/Dr-Chen-Hero-Image-xl.webp",
+        "type": "file",
+        "md5": "3e06b775ce460ef766928e46c9006ae1"
+    },
+    {
+        "path": "/media/posts/65/responsive/Dr-Chen-Hero-Image-xs.webp",
+        "type": "file",
+        "md5": "7d948affdd35980b5a0a8d73618f470a"
+    },
+    {
+        "path": "/media/posts/65/responsive/Dr.-Chen-2xl.webp",
+        "type": "file",
+        "md5": "729ce39ce0a6b056961e33a52055f216"
+    },
+    {
+        "path": "/media/posts/65/responsive/Dr.-Chen-Hands-2xl.webp",
+        "type": "file",
+        "md5": "be3fd2a5aeb2a00a338b382814d5a116"
+    },
+    {
+        "path": "/media/posts/65/responsive/Dr.-Chen-Hands-lg.webp",
+        "type": "file",
+        "md5": "9bea08e32971ec042da8d3e15da5c74d"
+    },
+    {
+        "path": "/media/posts/65/responsive/Dr.-Chen-Hands-md.webp",
+        "type": "file",
+        "md5": "5167b944c8a390815bf13c60ce79c06d"
+    },
+    {
+        "path": "/media/posts/65/responsive/Dr.-Chen-Hands-sm.webp",
+        "type": "file",
+        "md5": "45953dd24b07902dd32891f5b3523307"
+    },
+    {
+        "path": "/media/posts/65/responsive/Dr.-Chen-Hands-xl.webp",
+        "type": "file",
+        "md5": "bffaa877cb13e748f5b003b0292077fd"
+    },
+    {
+        "path": "/media/posts/65/responsive/Dr.-Chen-Hands-xs.webp",
+        "type": "file",
+        "md5": "acbd884ac2e67ed73fe9c95ecc03b8b7"
+    },
+    {
+        "path": "/media/posts/65/responsive/Dr.-Chen-lg.webp",
+        "type": "file",
+        "md5": "aff2eb38ad379b6b2390d60a0d695f44"
+    },
+    {
+        "path": "/media/posts/65/responsive/Dr.-Chen-md.webp",
+        "type": "file",
+        "md5": "ddc83b0f8c29b7801545c993aa510834"
+    },
+    {
+        "path": "/media/posts/65/responsive/Dr.-Chen-sm.webp",
+        "type": "file",
+        "md5": "c9529d694951c5bf585bf3301781b84e"
+    },
+    {
+        "path": "/media/posts/65/responsive/Dr.-Chen-xl.webp",
+        "type": "file",
+        "md5": "b4ff51797a4d5c308fe0a266e8b7f532"
+    },
+    {
+        "path": "/media/posts/65/responsive/Dr.-Chen-xs.webp",
+        "type": "file",
+        "md5": "f7ed622c3502ffeab001984ea1b6d75e"
+    },
+    {
+        "path": "media/posts/66",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/66/Devices.png",
+        "type": "file",
+        "md5": "25754c5d5248a8ce64fc23fc95c458f8"
+    },
+    {
+        "path": "/media/posts/66/Dr.-Chen-and-Mouryn-Baleni-2024.png",
+        "type": "file",
+        "md5": "0973aa4b568682120e48f62ccd28a04b"
+    },
+    {
+        "path": "/media/posts/66/Dr.-Chen-taking-notes.png",
+        "type": "file",
+        "md5": "8e2165e285789d6f681e9b41f673ba6c"
+    },
+    {
+        "path": "/media/posts/66/L.-Victoria-Mouryn-and-Dr.-Chen.png",
+        "type": "file",
+        "md5": "f488e9424ecb337bd278c37b2de4fd08"
+    },
+    {
+        "path": "media/posts/66/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/66/responsive/Devices-2xl.webp",
+        "type": "file",
+        "md5": "e64701ff150e4fcd86c4c1512a8c5e27"
+    },
+    {
+        "path": "/media/posts/66/responsive/Devices-lg.webp",
+        "type": "file",
+        "md5": "6a5042ed16e257584b06a13abbb63b67"
+    },
+    {
+        "path": "/media/posts/66/responsive/Devices-md.webp",
+        "type": "file",
+        "md5": "3031012a1ac5e918f8e810a69a09829c"
+    },
+    {
+        "path": "/media/posts/66/responsive/Devices-sm.webp",
+        "type": "file",
+        "md5": "d4e5870033b9e5050cb0442b40d67209"
+    },
+    {
+        "path": "/media/posts/66/responsive/Devices-xl.webp",
+        "type": "file",
+        "md5": "000951cd625e91467d6f3d88e53d5df3"
+    },
+    {
+        "path": "/media/posts/66/responsive/Devices-xs.webp",
+        "type": "file",
+        "md5": "643ef7329b139f860bdbe96200f3b816"
+    },
+    {
+        "path": "/media/posts/66/responsive/Dr.-Chen-and-Mouryn-Baleni-2024-2xl.webp",
+        "type": "file",
+        "md5": "aae9cbb5644571b44c2d2bf134244367"
+    },
+    {
+        "path": "/media/posts/66/responsive/Dr.-Chen-and-Mouryn-Baleni-2024-lg.webp",
+        "type": "file",
+        "md5": "6eee9f2346b1a14480ee7f52215b33b0"
+    },
+    {
+        "path": "/media/posts/66/responsive/Dr.-Chen-and-Mouryn-Baleni-2024-md.webp",
+        "type": "file",
+        "md5": "0704c4a590697fd79067df4c9250790d"
+    },
+    {
+        "path": "/media/posts/66/responsive/Dr.-Chen-and-Mouryn-Baleni-2024-sm.webp",
+        "type": "file",
+        "md5": "27bd894daa4fb98a3811b1e424e63ac2"
+    },
+    {
+        "path": "/media/posts/66/responsive/Dr.-Chen-and-Mouryn-Baleni-2024-xl.webp",
+        "type": "file",
+        "md5": "8018b58e130d727a9d701d9ba221ab9e"
+    },
+    {
+        "path": "/media/posts/66/responsive/Dr.-Chen-and-Mouryn-Baleni-2024-xs.webp",
+        "type": "file",
+        "md5": "c73d751fce16939301ccd8abc60845a9"
+    },
+    {
+        "path": "/media/posts/66/responsive/Dr.-Chen-taking-notes-2xl.webp",
+        "type": "file",
+        "md5": "1e8bd02ad4809fc2d06f2ce3fd5b202d"
+    },
+    {
+        "path": "/media/posts/66/responsive/Dr.-Chen-taking-notes-lg.webp",
+        "type": "file",
+        "md5": "e225674baa66c653c4e2ed058ca95364"
+    },
+    {
+        "path": "/media/posts/66/responsive/Dr.-Chen-taking-notes-md.webp",
+        "type": "file",
+        "md5": "529d98339705e57fa5457919fa5d1c10"
+    },
+    {
+        "path": "/media/posts/66/responsive/Dr.-Chen-taking-notes-sm.webp",
+        "type": "file",
+        "md5": "d3319e7f7db677287ac5581b941c3abb"
+    },
+    {
+        "path": "/media/posts/66/responsive/Dr.-Chen-taking-notes-xl.webp",
+        "type": "file",
+        "md5": "15529100fef3594b63b99b837b7605b6"
+    },
+    {
+        "path": "/media/posts/66/responsive/Dr.-Chen-taking-notes-xs.webp",
+        "type": "file",
+        "md5": "e3d2b14cda5e6b82d3858dc67e2b7f6c"
+    },
+    {
+        "path": "/media/posts/66/responsive/L.-Victoria-Mouryn-and-Dr.-Chen-2xl.webp",
+        "type": "file",
+        "md5": "4adcc08a4e2da8a1a71d05391ad113f6"
+    },
+    {
+        "path": "/media/posts/66/responsive/L.-Victoria-Mouryn-and-Dr.-Chen-lg.webp",
+        "type": "file",
+        "md5": "49304c590bb11f8278fac54d88f915dd"
+    },
+    {
+        "path": "/media/posts/66/responsive/L.-Victoria-Mouryn-and-Dr.-Chen-md.webp",
+        "type": "file",
+        "md5": "e387d6be56221b59300624938b39450d"
+    },
+    {
+        "path": "/media/posts/66/responsive/L.-Victoria-Mouryn-and-Dr.-Chen-sm.webp",
+        "type": "file",
+        "md5": "9803a00529b4b73838b5d46920663d14"
+    },
+    {
+        "path": "/media/posts/66/responsive/L.-Victoria-Mouryn-and-Dr.-Chen-xl.webp",
+        "type": "file",
+        "md5": "740ca17718a06436f32ce904fc8f792e"
+    },
+    {
+        "path": "/media/posts/66/responsive/L.-Victoria-Mouryn-and-Dr.-Chen-xs.webp",
+        "type": "file",
+        "md5": "9aafee9e910ecfe790e5ce054e7addaf"
+    },
+    {
         "path": "media/posts/7",
         "type": "directory",
         "md5": false
@@ -3732,7 +4007,7 @@
     {
         "path": "/medical-disclaimer/index.html",
         "type": "file",
-        "md5": "d38f9dc19b0d17ca35af2c71580fe20e"
+        "md5": "cb47f9ea5facb6054dea9813ed316d4b"
     },
     {
         "path": "medical-supervision-and-insurance",
@@ -3742,7 +4017,7 @@
     {
         "path": "/medical-supervision-and-insurance/index.html",
         "type": "file",
-        "md5": "48326119e96a902dfddffbb3009f4c09"
+        "md5": "6392a33d32a06c7416266aece1e23295"
     },
     {
         "path": "mineral-rotation-logic",
@@ -3752,7 +4027,7 @@
     {
         "path": "/mineral-rotation-logic/index.html",
         "type": "file",
-        "md5": "705c27a53fcdb205382ed14beb6c9cac"
+        "md5": "75f1830962fc8c4ea24c884c2c799127"
     },
     {
         "path": "our-commitment-to-safety",
@@ -3762,7 +4037,7 @@
     {
         "path": "/our-commitment-to-safety/index.html",
         "type": "file",
-        "md5": "164c2eb1d8834e61a85b1cc4b62c6576"
+        "md5": "ab9a02877e7dbae429e42b102d4d77ec"
     },
     {
         "path": "our-philosophy",
@@ -3772,7 +4047,7 @@
     {
         "path": "/our-philosophy/index.html",
         "type": "file",
-        "md5": "86c35b391e0991c45d42404977667f57"
+        "md5": "08d31ebe5a53bba2f617f96bfd33a2ab"
     },
     {
         "path": "our-team",
@@ -3782,7 +4057,7 @@
     {
         "path": "/our-team/index.html",
         "type": "file",
-        "md5": "0c4be4c62b8a6b96901b87455883c263"
+        "md5": "0c2ea2908fe4d4a36ef3a365b14e85b0"
     },
     {
         "path": "page",
@@ -3797,7 +4072,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "2bc1c0907dceb602e264398fb4edf1d7"
+        "md5": "626b74b3c3edcff11c4149dc50025d17"
     },
     {
         "path": "plant-ash-salt",
@@ -3807,7 +4082,7 @@
     {
         "path": "/plant-ash-salt/index.html",
         "type": "file",
-        "md5": "b10c9af5eec1ee3b008a4ebc935ce93f"
+        "md5": "22c4fecb55547f59cce76b3c8e762cf1"
     },
     {
         "path": "privacy-policy",
@@ -3817,7 +4092,7 @@
     {
         "path": "/privacy-policy/index.html",
         "type": "file",
-        "md5": "a3562c394db0907916f251cbfb8ff15f"
+        "md5": "b1840c02ba2f470d4170de31a62246f3"
     },
     {
         "path": "progress-tracking-templates",
@@ -3827,7 +4102,7 @@
     {
         "path": "/progress-tracking-templates/index.html",
         "type": "file",
-        "md5": "6d2befbcd3de4bd725efacc51d4c576b"
+        "md5": "e87a46dc689cdbed86bf5acf5c769bc3"
     },
     {
         "path": "response-to-dr-mercy-atieno",
@@ -3837,7 +4112,7 @@
     {
         "path": "/response-to-dr-mercy-atieno/index.html",
         "type": "file",
-        "md5": "dbf007199dff2e4591e0b0865cf960a2"
+        "md5": "5ce98ccd3c8fb5da863f9b4f83e76064"
     },
     {
         "path": "restore-your-internal-garden-reclaim-your-health",
@@ -3847,7 +4122,7 @@
     {
         "path": "/restore-your-internal-garden-reclaim-your-health/index.html",
         "type": "file",
-        "md5": "4514a14f770cf0fba078c5dd44e82e60"
+        "md5": "96c095a6ffbd778d65ec7af1888890ab"
     },
     {
         "path": "reversal-vs-cure",
@@ -3857,7 +4132,7 @@
     {
         "path": "/reversal-vs-cure/index.html",
         "type": "file",
-        "md5": "715696ef3abf3168ba4cd86f4284cc95"
+        "md5": "a2cfe63437180eb229757c6147590e24"
     },
     {
         "path": "rift-valley-alkaline-salt",
@@ -3867,7 +4142,7 @@
     {
         "path": "/rift-valley-alkaline-salt/index.html",
         "type": "file",
-        "md5": "38649cd536fdffaea011ee8e2adf4467"
+        "md5": "9f7792ebaab18f157a1aa7737480b337"
     },
     {
         "path": "robots.txt",
@@ -3882,12 +4157,22 @@
     {
         "path": "/salt-rotation-how-alternating-minerals-deepens-terrain-restoration/index.html",
         "type": "file",
-        "md5": "7e0090475004846d84da1324c6ae0abb"
+        "md5": "2a16b02ffd359d6f8e7f1fce0c8f62b5"
+    },
+    {
+        "path": "science-meets-tradition-terra-partners-with-the-university-of-guelph-to-analyze-africas-traditional-salts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/science-meets-tradition-terra-partners-with-the-university-of-guelph-to-analyze-africas-traditional-salts/index.html",
+        "type": "file",
+        "md5": "c7644866f63670a4717124d10e41fc3c"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "22e714c65ffe51fab89c84ff36715961"
+        "md5": "cbad9c8e8aa5b906a7c4d5ad6f0fc3d5"
     },
     {
         "path": "sequence-is-everything-why-the-order-of-interventions-matters",
@@ -3897,12 +4182,12 @@
     {
         "path": "/sequence-is-everything-why-the-order-of-interventions-matters/index.html",
         "type": "file",
-        "md5": "139280a24346dbb937c89a1972d825e0"
+        "md5": "d66d21491da40e551587ca89e01dbde2"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "716875f384885334b267fa5a336869f0"
+        "md5": "eeaa6aa94bd99306228ac82cfeec1f53"
     },
     {
         "path": "sitemap.xsl",
@@ -3917,7 +4202,7 @@
     {
         "path": "/synergy-of-phases/index.html",
         "type": "file",
-        "md5": "57ff4f686e6b10390316a001ddd34960"
+        "md5": "e81ef9a8672b2961e7c5815064aea650"
     },
     {
         "path": "tags",
@@ -3927,7 +4212,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "66a7e857a79e0ab7a5ebc078682de15f"
+        "md5": "c7d8db242738ba24b3f9778a5325ffea"
     },
     {
         "path": "terms-of-use",
@@ -3937,7 +4222,7 @@
     {
         "path": "/terms-of-use/index.html",
         "type": "file",
-        "md5": "53d74a3b9885ea3d5bae0a27cf3428bd"
+        "md5": "9cbf975a21ab3e44250db9bb5a031d6c"
     },
     {
         "path": "thank-you-2",
@@ -3947,7 +4232,7 @@
     {
         "path": "/thank-you-2/index.html",
         "type": "file",
-        "md5": "34de00aac87ecd476e6928d590cd7498"
+        "md5": "b75af335d89d22ba7840e25d248e1f32"
     },
     {
         "path": "the-alkaline-diet-delusion-why-selling-vegetables-as-medicine-misses-the-point",
@@ -3957,7 +4242,7 @@
     {
         "path": "/the-alkaline-diet-delusion-why-selling-vegetables-as-medicine-misses-the-point/index.html",
         "type": "file",
-        "md5": "8043452ad547e6accf4816939d06c0c2"
+        "md5": "7406b2b8af07f110bb2242f7f0af8d9b"
     },
     {
         "path": "the-communities-we-learn-from",
@@ -3967,7 +4252,7 @@
     {
         "path": "/the-communities-we-learn-from/index.html",
         "type": "file",
-        "md5": "a0d506c0a5aca3434ee535301f44fc5f"
+        "md5": "38a0300ccc751ff66f050e7bd15c11f5"
     },
     {
         "path": "the-patient-who-became-his-own-researcher",
@@ -3977,7 +4262,7 @@
     {
         "path": "/the-patient-who-became-his-own-researcher/index.html",
         "type": "file",
-        "md5": "20e9abba31f2ea4aa03aa07220f1ef75"
+        "md5": "8ac84d4ec9e43aa6779e563ddb6b9265"
     },
     {
         "path": "the-role-of-autophagy",
@@ -3987,7 +4272,7 @@
     {
         "path": "/the-role-of-autophagy/index.html",
         "type": "file",
-        "md5": "63852d55cd2a8d7e4a0a3f2cf0c3a96e"
+        "md5": "694d31e8f188deca476b98a6a5b91ec9"
     },
     {
         "path": "the-terrain-repair-method",
@@ -3997,7 +4282,7 @@
     {
         "path": "/the-terrain-repair-method/index.html",
         "type": "file",
-        "md5": "9f59bd9c2d6f58a1c76550d300b1feaa"
+        "md5": "2f6d99c4fc60e3c591b0221fb9072c7b"
     },
     {
         "path": "the-three-phase-sequence",
@@ -4007,7 +4292,7 @@
     {
         "path": "/the-three-phase-sequence/index.html",
         "type": "file",
-        "md5": "efa70b5000392393a10b32368fb4809d"
+        "md5": "330bb0c190107b14fcbb2b4c5e83c10d"
     },
     {
         "path": "the-two-hour-wait",
@@ -4017,7 +4302,7 @@
     {
         "path": "/the-two-hour-wait/index.html",
         "type": "file",
-        "md5": "50024fe3a5a0e78b7552770aeb900a1d"
+        "md5": "e742c72dffe05a366b7d6e2a53ec3543"
     },
     {
         "path": "tradition-vs-science",
@@ -4027,7 +4312,7 @@
     {
         "path": "/tradition-vs-science/index.html",
         "type": "file",
-        "md5": "e05aaac63b09a98a44512caa28bfe0a7"
+        "md5": "ffd5edf4454ebb55357995a58ad17fc1"
     },
     {
         "path": "what-mineral-rotation-achieves",
@@ -4037,7 +4322,7 @@
     {
         "path": "/what-mineral-rotation-achieves/index.html",
         "type": "file",
-        "md5": "70022da0f243e098b08a69c1b0e04811"
+        "md5": "7f31c917ff9d9d14e3da53b07a593007"
     },
     {
         "path": "why-short-fasts",
@@ -4047,7 +4332,7 @@
     {
         "path": "/why-short-fasts/index.html",
         "type": "file",
-        "md5": "b006bc6f09b8e1e9b5e9281678338074"
+        "md5": "7bdf72d0fe7a708ffedcd933a04fda09"
     },
     {
         "path": "why-the-space-between-salt-and-broth-is-where-true-healing-begins",
@@ -4057,6 +4342,6 @@
     {
         "path": "/why-the-space-between-salt-and-broth-is-where-true-healing-begins/index.html",
         "type": "file",
-        "md5": "72ed3747444ac5635062603c3494a5e8"
+        "md5": "b567fcec3459bfc7c3ece441298d565f"
     }
 ]
