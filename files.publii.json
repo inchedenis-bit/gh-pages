@@ -12,7 +12,7 @@
     {
         "path": "/a-canadian-scientist-visits-kenyan-and-south-african-salt-sources-dr-sarah-chen-collects-samples-for-analysis/index.html",
         "type": "file",
-        "md5": "7d1f5fe8ea8e38e00b0361ab33ce0680"
+        "md5": "a1e704aa64d79c26f4907a4e6328d794"
     },
     {
         "path": "accumulation-theory-why-modern-humans-are-walking-repositories-of-toxins",
@@ -137,7 +137,7 @@
     {
         "path": "/authors/inche-denis/index.html",
         "type": "file",
-        "md5": "068e3a81cb7c11c0e5e3d9841164e110"
+        "md5": "bfbcb60dcc538d735183a7270678066a"
     },
     {
         "path": "authors/inche-denis/page",
@@ -152,7 +152,17 @@
     {
         "path": "/authors/inche-denis/page/2/index.html",
         "type": "file",
-        "md5": "731509d25cb2012b30efaa2601e3d73a"
+        "md5": "9d40bb8e02d5c9d95f9b8fe1c77aadfb"
+    },
+    {
+        "path": "authors/terra-report",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/terra-report/index.html",
+        "type": "file",
+        "md5": "2e0c0874ea83afcd4776f1a7f05e5a51"
     },
     {
         "path": "baleni-spring-salt",
@@ -317,12 +327,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "ecf0fd0ac977ff7bfa1623e4c9be82f1"
+        "md5": "72c62a3d89acc2e969630831ca88ce0b"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "7b574d8cfdb942b291d12ae8ea384478"
+        "md5": "877a02eaddccc27f98099ed8de495a87"
     },
     {
         "path": "food-interference-list",
@@ -377,7 +387,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "98a33ecdd22d61973e0829ad1bf08d84"
+        "md5": "4c1be910fdb321b78450ec6f161c81ca"
     },
     {
         "path": "lebek-salt",
@@ -4000,6 +4010,41 @@
         "md5": "075651d81e827ed40202dc1bc713d3d0"
     },
     {
+        "path": "/media/website/responsive/Terra-Report-2xl.webp",
+        "type": "file",
+        "md5": "5ba4b71a37ef993109f056bfcdc13ca4"
+    },
+    {
+        "path": "/media/website/responsive/Terra-Report-lg.webp",
+        "type": "file",
+        "md5": "5ba4b71a37ef993109f056bfcdc13ca4"
+    },
+    {
+        "path": "/media/website/responsive/Terra-Report-md.webp",
+        "type": "file",
+        "md5": "5ba4b71a37ef993109f056bfcdc13ca4"
+    },
+    {
+        "path": "/media/website/responsive/Terra-Report-sm.webp",
+        "type": "file",
+        "md5": "a2d9a568f6f882e06a32181a01e541eb"
+    },
+    {
+        "path": "/media/website/responsive/Terra-Report-xl.webp",
+        "type": "file",
+        "md5": "5ba4b71a37ef993109f056bfcdc13ca4"
+    },
+    {
+        "path": "/media/website/responsive/Terra-Report-xs.webp",
+        "type": "file",
+        "md5": "0c5f0891307e6df750809cae86365027"
+    },
+    {
+        "path": "/media/website/Terra-Report.png",
+        "type": "file",
+        "md5": "bc023c9a3b53ef357125c366f390e82d"
+    },
+    {
         "path": "medical-disclaimer",
         "type": "directory",
         "md5": false
@@ -4072,7 +4117,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "c2eac59e2f2d905df803dc0bbf5176bb"
+        "md5": "30c1d5f6fb3d6a44aa971fd53052a40c"
     },
     {
         "path": "plant-ash-salt",
@@ -4167,7 +4212,7 @@
     {
         "path": "/science-meets-tradition-terra-partners-with-the-university-of-guelph-to-analyze-africas-traditional-salts/index.html",
         "type": "file",
-        "md5": "d6e4ba6973a729a0b3c589098d2e0af8"
+        "md5": "8d3c03091d0f03afe84040336dba505a"
     },
     {
         "path": "search.html",
@@ -4187,7 +4232,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "f4189d5ec9e7b527eff9ea3a04cbf2fe"
+        "md5": "7cb49d727fcd253feb7acb54d3ec9789"
     },
     {
         "path": "sitemap.xsl",
@@ -4342,6 +4387,6 @@
     {
         "path": "/why-the-space-between-salt-and-broth-is-where-true-healing-begins/index.html",
         "type": "file",
-        "md5": "126d657439f55b93ae57132de615f6f9"
+        "md5": "3ea8681e8850b4d6af91618ca6c3bed6"
     }
 ]
