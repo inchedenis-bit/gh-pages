@@ -317,12 +317,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "6e1c608fc198fb29c9321ace1265a51c"
+        "md5": "9fa978bb1cd96b29a0e5c9f236a8ad0d"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "d094160883e25b0e67b8cade2b24d939"
+        "md5": "9f3871312d90a44007f798cf737499e9"
     },
     {
         "path": "food-interference-list",
@@ -3500,11 +3500,6 @@
         "md5": false
     },
     {
-        "path": "/media/posts/65/Dr-Chen-Hero-Image.png",
-        "type": "file",
-        "md5": "43142bed72ebfe72a624c18adae39bfd"
-    },
-    {
         "path": "/media/posts/65/Dr.-Chen-Hands.png",
         "type": "file",
         "md5": "4926dacec85bbba2c5cbdd674c7a7ae7"
@@ -3515,39 +3510,14 @@
         "md5": "8e06cae1e90d4287a47f6c137d19b79e"
     },
     {
+        "path": "/media/posts/65/Lake-Magadi-Hero-2.png",
+        "type": "file",
+        "md5": "884b349edd0dad26771c9bb69569c6d7"
+    },
+    {
         "path": "media/posts/65/responsive",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "/media/posts/65/responsive/Dr-Chen-Hero-Image-2xl.webp",
-        "type": "file",
-        "md5": "08b22f4d650ac295799e66b5e6f779ae"
-    },
-    {
-        "path": "/media/posts/65/responsive/Dr-Chen-Hero-Image-lg.webp",
-        "type": "file",
-        "md5": "a74c230ca0e8ae7e10c2e4e1a16f88ab"
-    },
-    {
-        "path": "/media/posts/65/responsive/Dr-Chen-Hero-Image-md.webp",
-        "type": "file",
-        "md5": "a5bacb4c31a07f1faea0316778ce63e5"
-    },
-    {
-        "path": "/media/posts/65/responsive/Dr-Chen-Hero-Image-sm.webp",
-        "type": "file",
-        "md5": "c8ce3324909abdfea062bc05c9cd8c47"
-    },
-    {
-        "path": "/media/posts/65/responsive/Dr-Chen-Hero-Image-xl.webp",
-        "type": "file",
-        "md5": "3e06b775ce460ef766928e46c9006ae1"
-    },
-    {
-        "path": "/media/posts/65/responsive/Dr-Chen-Hero-Image-xs.webp",
-        "type": "file",
-        "md5": "7d948affdd35980b5a0a8d73618f470a"
     },
     {
         "path": "/media/posts/65/responsive/Dr.-Chen-2xl.webp",
@@ -3608,6 +3578,36 @@
         "path": "/media/posts/65/responsive/Dr.-Chen-xs.webp",
         "type": "file",
         "md5": "f7ed622c3502ffeab001984ea1b6d75e"
+    },
+    {
+        "path": "/media/posts/65/responsive/Lake-Magadi-Hero-2-2xl.webp",
+        "type": "file",
+        "md5": "22de48b7496dd6c76665b82519dd6abb"
+    },
+    {
+        "path": "/media/posts/65/responsive/Lake-Magadi-Hero-2-lg.webp",
+        "type": "file",
+        "md5": "e431a321aac0f6df013889755ecc4d51"
+    },
+    {
+        "path": "/media/posts/65/responsive/Lake-Magadi-Hero-2-md.webp",
+        "type": "file",
+        "md5": "5f78632c49ab5462fe2196f26c3c3730"
+    },
+    {
+        "path": "/media/posts/65/responsive/Lake-Magadi-Hero-2-sm.webp",
+        "type": "file",
+        "md5": "c18ca301a0787acbb17510f5640fc489"
+    },
+    {
+        "path": "/media/posts/65/responsive/Lake-Magadi-Hero-2-xl.webp",
+        "type": "file",
+        "md5": "92e7e48d5be849022fa21d5a259189dc"
+    },
+    {
+        "path": "/media/posts/65/responsive/Lake-Magadi-Hero-2-xs.webp",
+        "type": "file",
+        "md5": "31e16218ec57b846d93d165833b33970"
     },
     {
         "path": "media/posts/66",
@@ -4167,7 +4167,7 @@
     {
         "path": "/science-meets-tradition-terra-partners-with-the-university-of-guelph-to-analyze-africas-traditional-salts/index.html",
         "type": "file",
-        "md5": "677196b551a17ef2068e223bfce97b1b"
+        "md5": "08ffd7ea0472b194d054feac959b16f9"
     },
     {
         "path": "search.html",
@@ -4187,7 +4187,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "784e045f4b2eeb709a312109e850af89"
+        "md5": "7232bd95e6f679eafd988546bebdbab6"
     },
     {
         "path": "sitemap.xsl",
@@ -4242,7 +4242,7 @@
     {
         "path": "/the-alkaline-diet-delusion-why-selling-vegetables-as-medicine-misses-the-point/index.html",
         "type": "file",
-        "md5": "359a0b1dadc8ab1de32deda3ac9424cf"
+        "md5": "97005a57c4ede9e66dccd41d5378efa7"
     },
     {
         "path": "the-communities-we-learn-from",
