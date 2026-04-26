@@ -3,32 +3,32 @@
     <title>Terra</title>
     <link href="https://terrain.co.ke/feed.xml" rel="self" />
     <link href="https://terrain.co.ke" />
-    <updated>2026-04-26T16:15:27+03:00</updated>
+    <updated>2026-04-26T17:02:58+03:00</updated>
     <author>
-        <name>Terra Reporter</name>
+        <name>Terra Editorial</name>
     </author>
     <id>https://terrain.co.ke</id>
 
     <entry>
         <title>Terra Partners with the University of Guelph to Analyze Africa&#x27;s Traditional Salts</title>
         <author>
-            <name>Terra Reporter</name>
+            <name>Terra Editorial</name>
         </author>
         <link href="https://terrain.co.ke/science-meets-tradition-terra-partners-with-the-university-of-guelph-to-analyze-africas-traditional-salts/"/>
         <id>https://terrain.co.ke/science-meets-tradition-terra-partners-with-the-university-of-guelph-to-analyze-africas-traditional-salts/</id>
-        <media:content url="https://terrain.co.ke/media/posts/65/Lake-Magadi-Hero-2.png" medium="image" />
+        <media:content url="https://terrain.co.ke/media/posts/65/Magadi-Image-Hero.png" medium="image" />
 
         <updated>2026-04-26T08:04:21+03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://terrain.co.ke/media/posts/65/Lake-Magadi-Hero-2.png" alt="" />
+                        <img src="https://terrain.co.ke/media/posts/65/Magadi-Image-Hero.png" alt="" />
                     <p class="ds-markdown-paragraph dropcap">The University of Guelph partners with governments, multinational corporations, and well-funded research foundations. They do not typically analyze salt samples shipped by a small, volunteer-run collective. But they made an exception for Terra. Not because of our size. Because of our purpose. Dr. Sarah Chen, a food scientist in the Department of Food Science, had been following the global decline of traditional food systems. She believed that traditional foods deserved scientific documentation, not romantic dismissal. So when Terra asked, she said yes.</p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://terrain.co.ke/media/posts/65/Lake-Magadi-Hero-2.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://terrain.co.ke/media/posts/65/Magadi-Image-Hero.png" class="type:primaryImage" alt="" /></p>
                 <p class="ds-markdown-paragraph dropcap">The University of Guelph partners with governments, multinational corporations, and well-funded research foundations. They do not typically analyze salt samples shipped by a small, volunteer-run collective. But they made an exception for Terra. Not because of our size. Because of our purpose. Dr. Sarah Chen, a food scientist in the Department of Food Science, had been following the global decline of traditional food systems. She believed that traditional foods deserved scientific documentation, not romantic dismissal. So when Terra asked, she said yes.</p>
 
 <p class="ds-markdown-paragraph">Her commitment was not abstract. In October 2024, she traveled to Kenya and South Africa to collect samples herself, walking the salt pans of Lake Magadi, the shores of Lake Victoria, and the geothermal springs of Baleni. (You can read about that visit <a href="https://terrain.co.ke/a-canadian-scientist-visits-kenyan-and-south-african-salt-sources-dr-sarah-chen-collects-samples-for-analysis/">here</a>.) Now, 18 months later, the results of those samples are available.</p>
@@ -265,7 +265,7 @@
     <entry>
         <title>The Alkaline Diet Delusion: Why Selling Vegetables as Medicine Misses the Point</title>
         <author>
-            <name>Terra Reporter</name>
+            <name>Terra Editorial</name>
         </author>
         <link href="https://terrain.co.ke/the-alkaline-diet-delusion-why-selling-vegetables-as-medicine-misses-the-point/"/>
         <id>https://terrain.co.ke/the-alkaline-diet-delusion-why-selling-vegetables-as-medicine-misses-the-point/</id>
@@ -414,7 +414,7 @@
     <entry>
         <title>How Alternating Minerals Deepens Terrain Restoration</title>
         <author>
-            <name>Terra Reporter</name>
+            <name>Terra Editorial</name>
         </author>
         <link href="https://terrain.co.ke/salt-rotation-how-alternating-minerals-deepens-terrain-restoration/"/>
         <id>https://terrain.co.ke/salt-rotation-how-alternating-minerals-deepens-terrain-restoration/</id>
@@ -540,7 +540,7 @@
     <entry>
         <title>Why Jane Spent 400K on Supplements and Got Sicker</title>
         <author>
-            <name>Terra Reporter</name>
+            <name>Terra Editorial</name>
         </author>
         <link href="https://terrain.co.ke/how-fasting-and-bones-of-indigenous-cattle-restored-what-herbs-and-diets-couldnt/"/>
         <id>https://terrain.co.ke/how-fasting-and-bones-of-indigenous-cattle-restored-what-herbs-and-diets-couldnt/</id>
@@ -778,7 +778,7 @@ A 2021 study on bone broth's anti-inflammatory properties found that it signific
     <entry>
         <title>Why Where a Cow Lived Determines What Medicine Its Bones Carry</title>
         <author>
-            <name>Terra Reporter</name>
+            <name>Terra Editorial</name>
         </author>
         <link href="https://terrain.co.ke/how-where-a-cow-lived-determines-what-medicine-its-bones-carry-and-how-they-interact-with-specific-salts/"/>
         <id>https://terrain.co.ke/how-where-a-cow-lived-determines-what-medicine-its-bones-carry-and-how-they-interact-with-specific-salts/</id>
@@ -957,7 +957,7 @@ A 2021 study on bone broth's anti-inflammatory properties found that it signific
     <entry>
         <title>Canadian Scientist Visits Kenyan and South African Salt Sources</title>
         <author>
-            <name>Terra Reporter</name>
+            <name>Terra Editorial</name>
         </author>
         <link href="https://terrain.co.ke/a-canadian-scientist-visits-kenyan-and-south-african-salt-sources-dr-sarah-chen-collects-samples-for-analysis/"/>
         <id>https://terrain.co.ke/a-canadian-scientist-visits-kenyan-and-south-african-salt-sources-dr-sarah-chen-collects-samples-for-analysis/</id>
@@ -1018,7 +1018,7 @@ A 2021 study on bone broth's anti-inflammatory properties found that it signific
     <entry>
         <title>What Happens When You Pause Between Salts and Broth</title>
         <author>
-            <name>Terra Reporter</name>
+            <name>Terra Editorial</name>
         </author>
         <link href="https://terrain.co.ke/why-the-space-between-salt-and-broth-is-where-true-healing-begins/"/>
         <id>https://terrain.co.ke/why-the-space-between-salt-and-broth-is-where-true-healing-begins/</id>
@@ -1184,7 +1184,7 @@ A 2021 study on bone broth's anti-inflammatory properties found that it signific
     <entry>
         <title>Why Nothing Worked Until I Changed the Order</title>
         <author>
-            <name>Terra Reporter</name>
+            <name>Terra Editorial</name>
         </author>
         <link href="https://terrain.co.ke/sequence-is-everything-why-the-order-of-interventions-matters/"/>
         <id>https://terrain.co.ke/sequence-is-everything-why-the-order-of-interventions-matters/</id>
@@ -1401,7 +1401,7 @@ A 2021 study on bone broth's anti-inflammatory properties found that it signific
     <entry>
         <title>Why the Modern Human Is a Walking Repository of Toxins</title>
         <author>
-            <name>Terra Reporter</name>
+            <name>Terra Editorial</name>
         </author>
         <link href="https://terrain.co.ke/accumulation-theory-why-modern-humans-are-walking-repositories-of-toxins/"/>
         <id>https://terrain.co.ke/accumulation-theory-why-modern-humans-are-walking-repositories-of-toxins/</id>
