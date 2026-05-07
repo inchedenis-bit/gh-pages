@@ -12,7 +12,7 @@
     {
         "path": "/a-canadian-scientist-visits-kenyan-and-south-african-salt-sources-dr-sarah-chen-collects-samples-for-analysis/index.html",
         "type": "file",
-        "md5": "3210386f3bc15005ab174646e05384b5"
+        "md5": "4f92f4458026054a67f73ae85255fe6c"
     },
     {
         "path": "accumulation-theory-why-modern-humans-are-walking-repositories-of-toxins",
@@ -317,12 +317,12 @@
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "a125801df7bdb7c81ec8aa0dd31395b8"
+        "md5": "a31d2eeb2fc37259b2e197d048f01586"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "4685e87df7bf891777d1280dfb535223"
+        "md5": "8c27734ae2e853d06d591f5d1a340881"
     },
     {
         "path": "food-interference-list",
@@ -3625,11 +3625,6 @@
         "md5": "25754c5d5248a8ce64fc23fc95c458f8"
     },
     {
-        "path": "/media/posts/66/Dr.-Chen-and-Mouryn-Baleni-2024.png",
-        "type": "file",
-        "md5": "0973aa4b568682120e48f62ccd28a04b"
-    },
-    {
         "path": "/media/posts/66/Dr.-Chen-taking-notes.png",
         "type": "file",
         "md5": "8e2165e285789d6f681e9b41f673ba6c"
@@ -3673,36 +3668,6 @@
         "path": "/media/posts/66/responsive/Devices-xs.webp",
         "type": "file",
         "md5": "643ef7329b139f860bdbe96200f3b816"
-    },
-    {
-        "path": "/media/posts/66/responsive/Dr.-Chen-and-Mouryn-Baleni-2024-2xl.webp",
-        "type": "file",
-        "md5": "aae9cbb5644571b44c2d2bf134244367"
-    },
-    {
-        "path": "/media/posts/66/responsive/Dr.-Chen-and-Mouryn-Baleni-2024-lg.webp",
-        "type": "file",
-        "md5": "6eee9f2346b1a14480ee7f52215b33b0"
-    },
-    {
-        "path": "/media/posts/66/responsive/Dr.-Chen-and-Mouryn-Baleni-2024-md.webp",
-        "type": "file",
-        "md5": "0704c4a590697fd79067df4c9250790d"
-    },
-    {
-        "path": "/media/posts/66/responsive/Dr.-Chen-and-Mouryn-Baleni-2024-sm.webp",
-        "type": "file",
-        "md5": "27bd894daa4fb98a3811b1e424e63ac2"
-    },
-    {
-        "path": "/media/posts/66/responsive/Dr.-Chen-and-Mouryn-Baleni-2024-xl.webp",
-        "type": "file",
-        "md5": "8018b58e130d727a9d701d9ba221ab9e"
-    },
-    {
-        "path": "/media/posts/66/responsive/Dr.-Chen-and-Mouryn-Baleni-2024-xs.webp",
-        "type": "file",
-        "md5": "c73d751fce16939301ccd8abc60845a9"
     },
     {
         "path": "/media/posts/66/responsive/Dr.-Chen-taking-notes-2xl.webp",
@@ -4237,7 +4202,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "2d6da9a42c05697e3347c17a16135b8b"
+        "md5": "178711af320bcf19930a7435b667484f"
     },
     {
         "path": "sitemap.xsl",
@@ -4382,7 +4347,7 @@
     {
         "path": "/volunteer-opportunity-literature-review-assistant/index.html",
         "type": "file",
-        "md5": "27ff9cccdff36a27983b83a479b3a18d"
+        "md5": "5c27b66be1891d5fe1c57e781e098b80"
     },
     {
         "path": "what-mineral-rotation-achieves",
