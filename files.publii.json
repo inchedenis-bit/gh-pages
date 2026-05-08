@@ -2,7 +2,7 @@
     {
         "path": "404.html",
         "type": "file",
-        "md5": "b9989612a9f616759f46278542784ae3"
+        "md5": "6cb8d5c3f695be11482f718e389d1888"
     },
     {
         "path": "a-canadian-scientist-visits-kenyan-and-south-african-salt-sources-dr-sarah-chen-collects-samples-for-analysis",
@@ -12,7 +12,7 @@
     {
         "path": "/a-canadian-scientist-visits-kenyan-and-south-african-salt-sources-dr-sarah-chen-collects-samples-for-analysis/index.html",
         "type": "file",
-        "md5": "4f92f4458026054a67f73ae85255fe6c"
+        "md5": "b39740637a8f5c7e47716eb3fb5d0ccd"
     },
     {
         "path": "accumulation-theory-why-modern-humans-are-walking-repositories-of-toxins",
@@ -22,7 +22,7 @@
     {
         "path": "/accumulation-theory-why-modern-humans-are-walking-repositories-of-toxins/index.html",
         "type": "file",
-        "md5": "cca4bd6e34d08f307e4229fd1327e2b6"
+        "md5": "1d278d625be2d6db63a52d947c44fd22"
     },
     {
         "path": "assets",
@@ -47,7 +47,7 @@
     {
         "path": "/assets/css/style.css",
         "type": "file",
-        "md5": "19069665ca619b82dc5f3dbb60c2f6e6"
+        "md5": "d02b18aa717a01a00550860e9c3fcc39"
     },
     {
         "path": "assets/dynamic",
@@ -137,7 +137,7 @@
     {
         "path": "/authors/inche-denis/index.html",
         "type": "file",
-        "md5": "ed09ee513b75c6fe33c592a7c212892d"
+        "md5": "780ff823267f076cc3b3b53688047de8"
     },
     {
         "path": "authors/inche-denis/page",
@@ -152,7 +152,7 @@
     {
         "path": "/authors/inche-denis/page/2/index.html",
         "type": "file",
-        "md5": "f6735cf08231473ab2b06655423a517f"
+        "md5": "d6be1714539a5913254981c2f1e4a958"
     },
     {
         "path": "baleni-spring-salt",
@@ -162,17 +162,7 @@
     {
         "path": "/baleni-spring-salt/index.html",
         "type": "file",
-        "md5": "d10becd5d49f29dda4faab49c7766405"
-    },
-    {
-        "path": "basic-vs-rotational-which-path-is-right-for-you",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/basic-vs-rotational-which-path-is-right-for-you/index.html",
-        "type": "file",
-        "md5": "cdf6dd35b660c109c82fd8c21b946fe6"
+        "md5": "df9a72aab7edd371bd76b317b0dea9e0"
     },
     {
         "path": "bilma-niger-salt",
@@ -182,7 +172,7 @@
     {
         "path": "/bilma-niger-salt/index.html",
         "type": "file",
-        "md5": "8ec54a31016f516f641726d15133e9c5"
+        "md5": "dadf22906f7c0b8bbd10ccf5e3a0e54a"
     },
     {
         "path": "bokes-black-salt",
@@ -192,57 +182,7 @@
     {
         "path": "/bokes-black-salt/index.html",
         "type": "file",
-        "md5": "319cfc3d51866894592e0cc6203a3f84"
-    },
-    {
-        "path": "broth-as-medicine",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/broth-as-medicine/index.html",
-        "type": "file",
-        "md5": "6ead95c7e96946b9717931b264055c11"
-    },
-    {
-        "path": "broth-sourcing-guide",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/broth-sourcing-guide/index.html",
-        "type": "file",
-        "md5": "3d5c7c9b8e0dc4e08c7e54572f8fd588"
-    },
-    {
-        "path": "clinical-trials-and-evidence",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/clinical-trials-and-evidence/index.html",
-        "type": "file",
-        "md5": "1c15b3a5b760631c889ca970c6c00d95"
-    },
-    {
-        "path": "contact-us",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/contact-us/index.html",
-        "type": "file",
-        "md5": "ae5237df693fe9b4806a67fd7d1471b3"
-    },
-    {
-        "path": "dr-james-ochieng",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/dr-james-ochieng/index.html",
-        "type": "file",
-        "md5": "7470a3085aff3722c05fbe9ef61a97d0"
+        "md5": "32cb73c4db801f01b301c446df66e6fe"
     },
     {
         "path": "ebara-salt",
@@ -252,7 +192,7 @@
     {
         "path": "/ebara-salt/index.html",
         "type": "file",
-        "md5": "826af82a9803c358a8d794418e0f4bf4"
+        "md5": "df0de89791755a3dc1206e290911e520"
     },
     {
         "path": "faqs",
@@ -260,39 +200,49 @@
         "md5": false
     },
     {
+        "path": "faqs/contact-us",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/faqs/contact-us/index.html",
+        "type": "file",
+        "md5": "0df2361601f34c1fb190aab8d2842622"
+    },
+    {
+        "path": "faqs/faqs-practical-implementation",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/faqs/faqs-practical-implementation/index.html",
+        "type": "file",
+        "md5": "5c515aadfe03e612801855dac8cc5826"
+    },
+    {
+        "path": "faqs/faqs-safety-questions",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/faqs/faqs-safety-questions/index.html",
+        "type": "file",
+        "md5": "dbbc3a4b91516d7569a0b2e43bdfcdaf"
+    },
+    {
+        "path": "faqs/faqs-science-questions",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/faqs/faqs-science-questions/index.html",
+        "type": "file",
+        "md5": "a0454c64342220a5e75e54bf99220f55"
+    },
+    {
         "path": "/faqs/index.html",
         "type": "file",
-        "md5": "5d387d28ae4f7b6419f123765ce39fde"
-    },
-    {
-        "path": "faqs-practical-implementation",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/faqs-practical-implementation/index.html",
-        "type": "file",
-        "md5": "1641836c7eb27d933519c54745f8c231"
-    },
-    {
-        "path": "faqs-safety-questions",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/faqs-safety-questions/index.html",
-        "type": "file",
-        "md5": "205fa6bf0b8e21f80237d40e5e109d28"
-    },
-    {
-        "path": "faqs-science-questions",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/faqs-science-questions/index.html",
-        "type": "file",
-        "md5": "e3217dac5d91350f161e8dc7f13c7556"
+        "md5": "6f58bfedf2b90313b87637a4dee636fc"
     },
     {
         "path": "farim-salt",
@@ -302,7 +252,7 @@
     {
         "path": "/farim-salt/index.html",
         "type": "file",
-        "md5": "4c2a2fa780a38f308b5e20e688aadcbd"
+        "md5": "4240251b817c4e0789fbde7b752ea0d9"
     },
     {
         "path": "fasting-safety",
@@ -310,29 +260,79 @@
         "md5": false
     },
     {
-        "path": "/fasting-safety/index.html",
-        "type": "file",
-        "md5": "626f22f700420f3b7916a24820984e65"
-    },
-    {
-        "path": "feed.json",
-        "type": "file",
-        "md5": "a31d2eeb2fc37259b2e197d048f01586"
-    },
-    {
-        "path": "feed.xml",
-        "type": "file",
-        "md5": "8c27734ae2e853d06d591f5d1a340881"
-    },
-    {
-        "path": "food-interference-list",
+        "path": "fasting-safety/clinical-trials-and-evidence",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/food-interference-list/index.html",
+        "path": "/fasting-safety/clinical-trials-and-evidence/index.html",
         "type": "file",
-        "md5": "3fa88542e2ea35560218901ca2adfab3"
+        "md5": "223ce40ee0d2fee17714b61ddaafabd5"
+    },
+    {
+        "path": "fasting-safety/dr-james-ochieng",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/fasting-safety/dr-james-ochieng/index.html",
+        "type": "file",
+        "md5": "64f4a54bf08ca4f37a9bd70eb337dddc"
+    },
+    {
+        "path": "/fasting-safety/index.html",
+        "type": "file",
+        "md5": "c3990ab2096f3f7ed95cd02f39a850bd"
+    },
+    {
+        "path": "fasting-safety/medical-supervision-and-insurance",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/fasting-safety/medical-supervision-and-insurance/index.html",
+        "type": "file",
+        "md5": "c8102485e529b20b81e44698dff709cf"
+    },
+    {
+        "path": "fasting-safety/response-to-dr-mercy-atieno",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/fasting-safety/response-to-dr-mercy-atieno/index.html",
+        "type": "file",
+        "md5": "2caa04017917a5b07e49c7fdeb8dd255"
+    },
+    {
+        "path": "fasting-safety/reversal-vs-cure",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/fasting-safety/reversal-vs-cure/index.html",
+        "type": "file",
+        "md5": "5f773221d758f97e45d5b9b2dea1066e"
+    },
+    {
+        "path": "fasting-safety/tradition-vs-science",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/fasting-safety/tradition-vs-science/index.html",
+        "type": "file",
+        "md5": "0467c2861cc6ee1b3ec6e4a423e2c5ac"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "62f189c392aaacab016d9dd36ba30f30"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "834b2aa13da6f4c1f866b574c1ceda47"
     },
     {
         "path": "foods-to-avoid",
@@ -342,17 +342,7 @@
     {
         "path": "/foods-to-avoid/index.html",
         "type": "file",
-        "md5": "5858bbd7779289a019f1c7da02fecbca"
-    },
-    {
-        "path": "glossary-of-terms",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/glossary-of-terms/index.html",
-        "type": "file",
-        "md5": "74e87f4346a8f204f99229ebe79d3495"
+        "md5": "9ac9b27f0041b73c840cf87a840d5f93"
     },
     {
         "path": "how-fasting-and-bones-of-indigenous-cattle-restored-what-herbs-and-diets-couldnt",
@@ -362,7 +352,7 @@
     {
         "path": "/how-fasting-and-bones-of-indigenous-cattle-restored-what-herbs-and-diets-couldnt/index.html",
         "type": "file",
-        "md5": "9b956920f66d805aa5132cc084872dbb"
+        "md5": "614abe14987ad2cbfa4a557ee11a8001"
     },
     {
         "path": "how-where-a-cow-lived-determines-what-medicine-its-bones-carry-and-how-they-interact-with-specific-salts",
@@ -372,12 +362,12 @@
     {
         "path": "/how-where-a-cow-lived-determines-what-medicine-its-bones-carry-and-how-they-interact-with-specific-salts/index.html",
         "type": "file",
-        "md5": "f6df65cd4d287aad982df1f7b0b68bd6"
+        "md5": "31668314002be0cfa4bb8457ce744497"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "0f59b93560311f3de8d8199260e6db73"
+        "md5": "b7c95e697eb715c28dd3bca4b3e43c9b"
     },
     {
         "path": "join-terra",
@@ -387,7 +377,7 @@
     {
         "path": "/join-terra/index.html",
         "type": "file",
-        "md5": "8025456f58853c4d0fd42658dfb39f1c"
+        "md5": "6dbfccf6a84e780003e8f752200ac513"
     },
     {
         "path": "lebek-salt",
@@ -397,7 +387,7 @@
     {
         "path": "/lebek-salt/index.html",
         "type": "file",
-        "md5": "c4fafe1a905cb276b2f0cd32e61fd4c9"
+        "md5": "82a1f7cd4a4a104015fcfca42e61f83c"
     },
     {
         "path": "media",
@@ -445,89 +435,44 @@
         "md5": false
     },
     {
-        "path": "/media/posts/10/hero-22.png",
-        "type": "file",
-        "md5": "761ec7da850c6b6e75c4341127fc0eb7"
-    },
-    {
         "path": "media/posts/10/responsive",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/posts/10/responsive/hero-22-2xl.webp",
+        "path": "/media/posts/10/responsive/water-2xl.webp",
         "type": "file",
-        "md5": "69143c3ff27966f9005499c8f7d117c4"
+        "md5": "cc1ccf331f727beb48bbbc79cbf3d597"
     },
     {
-        "path": "/media/posts/10/responsive/hero-22-lg.webp",
+        "path": "/media/posts/10/responsive/water-lg.webp",
         "type": "file",
-        "md5": "3f83327da80dfbaf3073ae3ff71ddaf5"
+        "md5": "bf63926d1c482fe781a32a2f27558d37"
     },
     {
-        "path": "/media/posts/10/responsive/hero-22-md.webp",
+        "path": "/media/posts/10/responsive/water-md.webp",
         "type": "file",
-        "md5": "0c5a176329d942c8aa674dc6cce028eb"
+        "md5": "6f2d5539fef72c773a8bf63f55074f5f"
     },
     {
-        "path": "/media/posts/10/responsive/hero-22-sm.webp",
+        "path": "/media/posts/10/responsive/water-sm.webp",
         "type": "file",
-        "md5": "63b7e359d32225b4a1f9acb94a18c813"
+        "md5": "adad783d8a4f7b8201b594e6ed577ab3"
     },
     {
-        "path": "/media/posts/10/responsive/hero-22-xl.webp",
+        "path": "/media/posts/10/responsive/water-xl.webp",
         "type": "file",
-        "md5": "3248dcaecd096cd06937e4a0220fd631"
+        "md5": "17fc6839c5db1c281fadca54f60c3fd9"
     },
     {
-        "path": "/media/posts/10/responsive/hero-22-xs.webp",
+        "path": "/media/posts/10/responsive/water-xs.webp",
         "type": "file",
-        "md5": "9e10a7857a8b3a1d97a4e0906d5b40ef"
+        "md5": "f7b5e3c15cc3c863f608c452c91349f5"
     },
     {
-        "path": "media/posts/11",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/11/hero-22.png",
+        "path": "/media/posts/10/water.png",
         "type": "file",
-        "md5": "761ec7da850c6b6e75c4341127fc0eb7"
-    },
-    {
-        "path": "media/posts/11/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/11/responsive/hero-22-2xl.webp",
-        "type": "file",
-        "md5": "69143c3ff27966f9005499c8f7d117c4"
-    },
-    {
-        "path": "/media/posts/11/responsive/hero-22-lg.webp",
-        "type": "file",
-        "md5": "3f83327da80dfbaf3073ae3ff71ddaf5"
-    },
-    {
-        "path": "/media/posts/11/responsive/hero-22-md.webp",
-        "type": "file",
-        "md5": "0c5a176329d942c8aa674dc6cce028eb"
-    },
-    {
-        "path": "/media/posts/11/responsive/hero-22-sm.webp",
-        "type": "file",
-        "md5": "63b7e359d32225b4a1f9acb94a18c813"
-    },
-    {
-        "path": "/media/posts/11/responsive/hero-22-xl.webp",
-        "type": "file",
-        "md5": "3248dcaecd096cd06937e4a0220fd631"
-    },
-    {
-        "path": "/media/posts/11/responsive/hero-22-xs.webp",
-        "type": "file",
-        "md5": "9e10a7857a8b3a1d97a4e0906d5b40ef"
+        "md5": "1d962c00cfc1ce410858606cf2253423"
     },
     {
         "path": "media/posts/12",
@@ -535,44 +480,44 @@
         "md5": false
     },
     {
-        "path": "/media/posts/12/hero-22.png",
-        "type": "file",
-        "md5": "761ec7da850c6b6e75c4341127fc0eb7"
-    },
-    {
         "path": "media/posts/12/responsive",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/posts/12/responsive/hero-22-2xl.webp",
+        "path": "/media/posts/12/responsive/water-2xl.webp",
         "type": "file",
-        "md5": "69143c3ff27966f9005499c8f7d117c4"
+        "md5": "cc1ccf331f727beb48bbbc79cbf3d597"
     },
     {
-        "path": "/media/posts/12/responsive/hero-22-lg.webp",
+        "path": "/media/posts/12/responsive/water-lg.webp",
         "type": "file",
-        "md5": "3f83327da80dfbaf3073ae3ff71ddaf5"
+        "md5": "bf63926d1c482fe781a32a2f27558d37"
     },
     {
-        "path": "/media/posts/12/responsive/hero-22-md.webp",
+        "path": "/media/posts/12/responsive/water-md.webp",
         "type": "file",
-        "md5": "0c5a176329d942c8aa674dc6cce028eb"
+        "md5": "6f2d5539fef72c773a8bf63f55074f5f"
     },
     {
-        "path": "/media/posts/12/responsive/hero-22-sm.webp",
+        "path": "/media/posts/12/responsive/water-sm.webp",
         "type": "file",
-        "md5": "63b7e359d32225b4a1f9acb94a18c813"
+        "md5": "adad783d8a4f7b8201b594e6ed577ab3"
     },
     {
-        "path": "/media/posts/12/responsive/hero-22-xl.webp",
+        "path": "/media/posts/12/responsive/water-xl.webp",
         "type": "file",
-        "md5": "3248dcaecd096cd06937e4a0220fd631"
+        "md5": "17fc6839c5db1c281fadca54f60c3fd9"
     },
     {
-        "path": "/media/posts/12/responsive/hero-22-xs.webp",
+        "path": "/media/posts/12/responsive/water-xs.webp",
         "type": "file",
-        "md5": "9e10a7857a8b3a1d97a4e0906d5b40ef"
+        "md5": "f7b5e3c15cc3c863f608c452c91349f5"
+    },
+    {
+        "path": "/media/posts/12/water.png",
+        "type": "file",
+        "md5": "1d962c00cfc1ce410858606cf2253423"
     },
     {
         "path": "media/posts/16",
@@ -925,44 +870,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/2/hero-4.png",
-        "type": "file",
-        "md5": "3fb297b27217be2066eeca6e687ee561"
-    },
-    {
         "path": "media/posts/2/responsive",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "/media/posts/2/responsive/hero-4-2xl.webp",
-        "type": "file",
-        "md5": "3dd21d1c4163d62bade94c44f6a21173"
-    },
-    {
-        "path": "/media/posts/2/responsive/hero-4-lg.webp",
-        "type": "file",
-        "md5": "0c860a948ff51b3a19ba1a9c733c17df"
-    },
-    {
-        "path": "/media/posts/2/responsive/hero-4-md.webp",
-        "type": "file",
-        "md5": "e8261c5c5cea9aa070577a94a19f15d3"
-    },
-    {
-        "path": "/media/posts/2/responsive/hero-4-sm.webp",
-        "type": "file",
-        "md5": "dde6a4fdebda3e91e8d0ac734b8ae18b"
-    },
-    {
-        "path": "/media/posts/2/responsive/hero-4-xl.webp",
-        "type": "file",
-        "md5": "fff6c2728cb32d481c27c5e72bd2e032"
-    },
-    {
-        "path": "/media/posts/2/responsive/hero-4-xs.webp",
-        "type": "file",
-        "md5": "65a07dce385fc11a2aca78174da0709c"
     },
     {
         "path": "/media/posts/2/responsive/sequence-2xl.webp",
@@ -1025,6 +935,36 @@
         "md5": "fae746b7cbe50402de01c24f80f4f9e5"
     },
     {
+        "path": "/media/posts/2/responsive/Testimonials-2xl.webp",
+        "type": "file",
+        "md5": "c2187aa2d3ba04c3bb4734f4c0fb3b6c"
+    },
+    {
+        "path": "/media/posts/2/responsive/Testimonials-lg.webp",
+        "type": "file",
+        "md5": "26a6e117f5bce5c79a7f883efad2e6f7"
+    },
+    {
+        "path": "/media/posts/2/responsive/Testimonials-md.webp",
+        "type": "file",
+        "md5": "b13e266189b2f7f61f36e8e2fa56ef0f"
+    },
+    {
+        "path": "/media/posts/2/responsive/Testimonials-sm.webp",
+        "type": "file",
+        "md5": "d184e9398309c2b2dc2bbd65fb108fc7"
+    },
+    {
+        "path": "/media/posts/2/responsive/Testimonials-xl.webp",
+        "type": "file",
+        "md5": "89f34cb9a6a43bdf4457d6b804d7e22b"
+    },
+    {
+        "path": "/media/posts/2/responsive/Testimonials-xs.webp",
+        "type": "file",
+        "md5": "1631c14ec19cc9756ce7d860a8840a06"
+    },
+    {
         "path": "/media/posts/2/sequence.png",
         "type": "file",
         "md5": "f58597309dd07d4d041a9397fc0674ee"
@@ -1035,14 +975,19 @@
         "md5": "a3d7a88d3422501667cfbb1c0af09feb"
     },
     {
+        "path": "/media/posts/2/Testimonials.png",
+        "type": "file",
+        "md5": "b5983507673ca7a0e0c15f969369a43b"
+    },
+    {
         "path": "media/posts/22",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/posts/22/hero-3.png",
+        "path": "/media/posts/22/Elders-Under-Tree.png",
         "type": "file",
-        "md5": "9dfde8614e9a2205acae27704e9aa64c"
+        "md5": "9cba63dff5956fda5ef50055c300e6ca"
     },
     {
         "path": "media/posts/22/responsive",
@@ -1050,34 +995,34 @@
         "md5": false
     },
     {
-        "path": "/media/posts/22/responsive/hero-3-2xl.webp",
+        "path": "/media/posts/22/responsive/Elders-Under-Tree-2xl.webp",
         "type": "file",
-        "md5": "757a30bcf44253f5b9e94ccca66d539c"
+        "md5": "83257d7b7cf6d44f0e59c6255aeaa1b3"
     },
     {
-        "path": "/media/posts/22/responsive/hero-3-lg.webp",
+        "path": "/media/posts/22/responsive/Elders-Under-Tree-lg.webp",
         "type": "file",
-        "md5": "6807182da023df873cded68aa2dcba1a"
+        "md5": "5ace29ababf411f0be49d39aa8ef9ac9"
     },
     {
-        "path": "/media/posts/22/responsive/hero-3-md.webp",
+        "path": "/media/posts/22/responsive/Elders-Under-Tree-md.webp",
         "type": "file",
-        "md5": "9ff89130d71e1110bbdaefc9f9785a95"
+        "md5": "0243997db1df929090d1f2ce847cfc72"
     },
     {
-        "path": "/media/posts/22/responsive/hero-3-sm.webp",
+        "path": "/media/posts/22/responsive/Elders-Under-Tree-sm.webp",
         "type": "file",
-        "md5": "9eeafdd60780a486709709a4d88f1524"
+        "md5": "d6ac317ce0b5a7e39616c4559d3c94f9"
     },
     {
-        "path": "/media/posts/22/responsive/hero-3-xl.webp",
+        "path": "/media/posts/22/responsive/Elders-Under-Tree-xl.webp",
         "type": "file",
-        "md5": "a1e743bfaf678c74bd38cdfc23ba361c"
+        "md5": "a1c29dc2f77f199357e126a3360385bb"
     },
     {
-        "path": "/media/posts/22/responsive/hero-3-xs.webp",
+        "path": "/media/posts/22/responsive/Elders-Under-Tree-xs.webp",
         "type": "file",
-        "md5": "f779d46f4e798f03f2252ae267de824d"
+        "md5": "c7233751659fcd9cfc51d50129858ac0"
     },
     {
         "path": "media/posts/26",
@@ -1085,44 +1030,39 @@
         "md5": false
     },
     {
-        "path": "/media/posts/26/Geography-of-Minerals.png",
-        "type": "file",
-        "md5": "dbf7e9b5765bfdb89995978902b1749e"
-    },
-    {
         "path": "media/posts/26/responsive",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/posts/26/responsive/Geography-of-Minerals-2xl.webp",
+        "path": "/media/posts/26/responsive/Restoration-2xl.webp",
         "type": "file",
-        "md5": "03680993b27f5a36f98fe429bfc99113"
+        "md5": "cf1a3e15a50b837b393298bf950f4306"
     },
     {
-        "path": "/media/posts/26/responsive/Geography-of-Minerals-lg.webp",
+        "path": "/media/posts/26/responsive/Restoration-lg.webp",
         "type": "file",
-        "md5": "440280ca7a32b742af81e9e188935489"
+        "md5": "8bd9b57d2f26c8e0e032c2edcafba7a6"
     },
     {
-        "path": "/media/posts/26/responsive/Geography-of-Minerals-md.webp",
+        "path": "/media/posts/26/responsive/Restoration-md.webp",
         "type": "file",
-        "md5": "af69c287c28c13021d5b60ad7117bdca"
+        "md5": "9ad91e234c9efdb28b9add24decb6486"
     },
     {
-        "path": "/media/posts/26/responsive/Geography-of-Minerals-sm.webp",
+        "path": "/media/posts/26/responsive/Restoration-sm.webp",
         "type": "file",
-        "md5": "95eaab3df900a7bf768470025beb6f24"
+        "md5": "bf8f2171b3ff87091ecb18fecb0163ed"
     },
     {
-        "path": "/media/posts/26/responsive/Geography-of-Minerals-xl.webp",
+        "path": "/media/posts/26/responsive/Restoration-xl.webp",
         "type": "file",
-        "md5": "bf35bbb8534438d9b36ce68b722fc210"
+        "md5": "d29c72d09818a5f2fc1804da4d593565"
     },
     {
-        "path": "/media/posts/26/responsive/Geography-of-Minerals-xs.webp",
+        "path": "/media/posts/26/responsive/Restoration-xs.webp",
         "type": "file",
-        "md5": "79f2641dee539a7cf236a84dcc4da33d"
+        "md5": "217093ac6974fd512a6f3a1899d75f5e"
     },
     {
         "path": "/media/posts/26/responsive/Salt-Crystals-3-2xl.webp",
@@ -1185,6 +1125,11 @@
         "md5": "8e27e2ab82811b8d0e3a18e2ae267cf6"
     },
     {
+        "path": "/media/posts/26/Restoration.png",
+        "type": "file",
+        "md5": "971789f16b5000a734a1c9e0dc77afd0"
+    },
+    {
         "path": "/media/posts/26/Salt-Crystals-3.png",
         "type": "file",
         "md5": "892ef259b66cb603f06b7822b9769826"
@@ -1205,14 +1150,14 @@
         "md5": "20be704f81a520089739a9e7396f8fe6"
     },
     {
-        "path": "/media/posts/27/cattle-laikipia.png",
-        "type": "file",
-        "md5": "13309918526ec3ecc4eaa9401e2eacff"
-    },
-    {
         "path": "/media/posts/27/cattle.png",
         "type": "file",
         "md5": "63232fa298b9f55f0e622e7e8489df2f"
+    },
+    {
+        "path": "/media/posts/27/Perfect-Header-2.png",
+        "type": "file",
+        "md5": "8a59bca51d70a35c191fe72b1a53c563"
     },
     {
         "path": "/media/posts/27/Plant-Variety-Laikipia-2.png",
@@ -1270,36 +1215,6 @@
         "md5": "e465d58e1abe17993e59633a0b404718"
     },
     {
-        "path": "/media/posts/27/responsive/cattle-laikipia-2xl.webp",
-        "type": "file",
-        "md5": "009a6c689862fcb3f7e80569aa7d35fd"
-    },
-    {
-        "path": "/media/posts/27/responsive/cattle-laikipia-lg.webp",
-        "type": "file",
-        "md5": "f2d4cabad681eaf438c1752d8115c745"
-    },
-    {
-        "path": "/media/posts/27/responsive/cattle-laikipia-md.webp",
-        "type": "file",
-        "md5": "a83c7bc0af7a26f1a26819c5893be0b3"
-    },
-    {
-        "path": "/media/posts/27/responsive/cattle-laikipia-sm.webp",
-        "type": "file",
-        "md5": "801998bd5f2d6c6783057b33a939f343"
-    },
-    {
-        "path": "/media/posts/27/responsive/cattle-laikipia-xl.webp",
-        "type": "file",
-        "md5": "03c7adee377bfce896c25059ba901ae9"
-    },
-    {
-        "path": "/media/posts/27/responsive/cattle-laikipia-xs.webp",
-        "type": "file",
-        "md5": "9aa45cb255be8c86e4451f4e7de94053"
-    },
-    {
         "path": "/media/posts/27/responsive/cattle-lg.webp",
         "type": "file",
         "md5": "ad977cd0bde3fa0fd074d99410ff162f"
@@ -1323,6 +1238,36 @@
         "path": "/media/posts/27/responsive/cattle-xs.webp",
         "type": "file",
         "md5": "ec21244ffecce0df666a16ee48a1918e"
+    },
+    {
+        "path": "/media/posts/27/responsive/Perfect-Header-2-2xl.webp",
+        "type": "file",
+        "md5": "b9dbf8ebb9c57ffa16646540b30bf527"
+    },
+    {
+        "path": "/media/posts/27/responsive/Perfect-Header-2-lg.webp",
+        "type": "file",
+        "md5": "72ada7ead5ba9e847b7345282e234533"
+    },
+    {
+        "path": "/media/posts/27/responsive/Perfect-Header-2-md.webp",
+        "type": "file",
+        "md5": "94edc2467fe2e510ed29b7d48a531dfe"
+    },
+    {
+        "path": "/media/posts/27/responsive/Perfect-Header-2-sm.webp",
+        "type": "file",
+        "md5": "c58bb3cd72d7c4c9452a18cce2bfc09a"
+    },
+    {
+        "path": "/media/posts/27/responsive/Perfect-Header-2-xl.webp",
+        "type": "file",
+        "md5": "b5001d0f537f669f75df64bfd280b6a9"
+    },
+    {
+        "path": "/media/posts/27/responsive/Perfect-Header-2-xs.webp",
+        "type": "file",
+        "md5": "fcfaeeeb48dbc89522d5993d0e88fd42"
     },
     {
         "path": "/media/posts/27/responsive/Plant-Variety-Laikipia-2-2xl.webp",
@@ -1500,14 +1445,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/3/bottles-discarded.png",
-        "type": "file",
-        "md5": "28443f0ac1b03ea57b2f5d0f4d6ebfa2"
-    },
-    {
         "path": "/media/posts/3/Clutter.png",
         "type": "file",
         "md5": "a367ece40de167be8feef200db778b7c"
+    },
+    {
+        "path": "/media/posts/3/Discarded-bottles.png",
+        "type": "file",
+        "md5": "ad4fabf4377ee4dfa9846815f84cdda6"
     },
     {
         "path": "/media/posts/3/Murky-swamp-water.png",
@@ -1518,36 +1463,6 @@
         "path": "media/posts/3/responsive",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "/media/posts/3/responsive/bottles-discarded-2xl.webp",
-        "type": "file",
-        "md5": "f768d7cfcdb8fada6e666e79e7fb039f"
-    },
-    {
-        "path": "/media/posts/3/responsive/bottles-discarded-lg.webp",
-        "type": "file",
-        "md5": "e1c6f4cbf592ad8aedb8d681e82cc81f"
-    },
-    {
-        "path": "/media/posts/3/responsive/bottles-discarded-md.webp",
-        "type": "file",
-        "md5": "94d70bc8388f76a6465bcc2b2c74466f"
-    },
-    {
-        "path": "/media/posts/3/responsive/bottles-discarded-sm.webp",
-        "type": "file",
-        "md5": "4dcaccd893758e954ea16d3fc768d923"
-    },
-    {
-        "path": "/media/posts/3/responsive/bottles-discarded-xl.webp",
-        "type": "file",
-        "md5": "aaaab83a9ab4cdff56726137e858b95a"
-    },
-    {
-        "path": "/media/posts/3/responsive/bottles-discarded-xs.webp",
-        "type": "file",
-        "md5": "bbccd14fd88556d7a8f6cb2ad573bcf0"
     },
     {
         "path": "/media/posts/3/responsive/Clutter-2xl.webp",
@@ -1578,6 +1493,36 @@
         "path": "/media/posts/3/responsive/Clutter-xs.webp",
         "type": "file",
         "md5": "5cd63455d343978f983e550b8719fed3"
+    },
+    {
+        "path": "/media/posts/3/responsive/Discarded-bottles-2xl.webp",
+        "type": "file",
+        "md5": "43b0664d648ededb2b245155bfd42313"
+    },
+    {
+        "path": "/media/posts/3/responsive/Discarded-bottles-lg.webp",
+        "type": "file",
+        "md5": "f5a788c6bdfc5cc9db9c65eb627cb086"
+    },
+    {
+        "path": "/media/posts/3/responsive/Discarded-bottles-md.webp",
+        "type": "file",
+        "md5": "05017724c473fee35e87dfff3aa8957a"
+    },
+    {
+        "path": "/media/posts/3/responsive/Discarded-bottles-sm.webp",
+        "type": "file",
+        "md5": "61fa84c278cfd166ecbf98efeb0c042a"
+    },
+    {
+        "path": "/media/posts/3/responsive/Discarded-bottles-xl.webp",
+        "type": "file",
+        "md5": "21467b767174055d632a97295242a886"
+    },
+    {
+        "path": "/media/posts/3/responsive/Discarded-bottles-xs.webp",
+        "type": "file",
+        "md5": "35b7f2b996f347bef1886f17c2721f82"
     },
     {
         "path": "/media/posts/3/responsive/Murky-swamp-water-2xl.webp",
@@ -1650,9 +1595,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/32/hero-3.png",
+        "path": "/media/posts/32/Elders-Under-Tree.png",
         "type": "file",
-        "md5": "9dfde8614e9a2205acae27704e9aa64c"
+        "md5": "9cba63dff5956fda5ef50055c300e6ca"
     },
     {
         "path": "media/posts/32/responsive",
@@ -1660,34 +1605,34 @@
         "md5": false
     },
     {
-        "path": "/media/posts/32/responsive/hero-3-2xl.webp",
+        "path": "/media/posts/32/responsive/Elders-Under-Tree-2xl.webp",
         "type": "file",
-        "md5": "757a30bcf44253f5b9e94ccca66d539c"
+        "md5": "83257d7b7cf6d44f0e59c6255aeaa1b3"
     },
     {
-        "path": "/media/posts/32/responsive/hero-3-lg.webp",
+        "path": "/media/posts/32/responsive/Elders-Under-Tree-lg.webp",
         "type": "file",
-        "md5": "6807182da023df873cded68aa2dcba1a"
+        "md5": "5ace29ababf411f0be49d39aa8ef9ac9"
     },
     {
-        "path": "/media/posts/32/responsive/hero-3-md.webp",
+        "path": "/media/posts/32/responsive/Elders-Under-Tree-md.webp",
         "type": "file",
-        "md5": "9ff89130d71e1110bbdaefc9f9785a95"
+        "md5": "0243997db1df929090d1f2ce847cfc72"
     },
     {
-        "path": "/media/posts/32/responsive/hero-3-sm.webp",
+        "path": "/media/posts/32/responsive/Elders-Under-Tree-sm.webp",
         "type": "file",
-        "md5": "9eeafdd60780a486709709a4d88f1524"
+        "md5": "d6ac317ce0b5a7e39616c4559d3c94f9"
     },
     {
-        "path": "/media/posts/32/responsive/hero-3-xl.webp",
+        "path": "/media/posts/32/responsive/Elders-Under-Tree-xl.webp",
         "type": "file",
-        "md5": "a1e743bfaf678c74bd38cdfc23ba361c"
+        "md5": "a1c29dc2f77f199357e126a3360385bb"
     },
     {
-        "path": "/media/posts/32/responsive/hero-3-xs.webp",
+        "path": "/media/posts/32/responsive/Elders-Under-Tree-xs.webp",
         "type": "file",
-        "md5": "f779d46f4e798f03f2252ae267de824d"
+        "md5": "c7233751659fcd9cfc51d50129858ac0"
     },
     {
         "path": "media/posts/33",
@@ -1695,44 +1640,44 @@
         "md5": false
     },
     {
-        "path": "/media/posts/33/hero-4.png",
-        "type": "file",
-        "md5": "3fb297b27217be2066eeca6e687ee561"
-    },
-    {
         "path": "media/posts/33/responsive",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/posts/33/responsive/hero-4-2xl.webp",
+        "path": "/media/posts/33/responsive/Testimonials-2xl.webp",
         "type": "file",
-        "md5": "3dd21d1c4163d62bade94c44f6a21173"
+        "md5": "c2187aa2d3ba04c3bb4734f4c0fb3b6c"
     },
     {
-        "path": "/media/posts/33/responsive/hero-4-lg.webp",
+        "path": "/media/posts/33/responsive/Testimonials-lg.webp",
         "type": "file",
-        "md5": "0c860a948ff51b3a19ba1a9c733c17df"
+        "md5": "26a6e117f5bce5c79a7f883efad2e6f7"
     },
     {
-        "path": "/media/posts/33/responsive/hero-4-md.webp",
+        "path": "/media/posts/33/responsive/Testimonials-md.webp",
         "type": "file",
-        "md5": "e8261c5c5cea9aa070577a94a19f15d3"
+        "md5": "b13e266189b2f7f61f36e8e2fa56ef0f"
     },
     {
-        "path": "/media/posts/33/responsive/hero-4-sm.webp",
+        "path": "/media/posts/33/responsive/Testimonials-sm.webp",
         "type": "file",
-        "md5": "dde6a4fdebda3e91e8d0ac734b8ae18b"
+        "md5": "d184e9398309c2b2dc2bbd65fb108fc7"
     },
     {
-        "path": "/media/posts/33/responsive/hero-4-xl.webp",
+        "path": "/media/posts/33/responsive/Testimonials-xl.webp",
         "type": "file",
-        "md5": "fff6c2728cb32d481c27c5e72bd2e032"
+        "md5": "89f34cb9a6a43bdf4457d6b804d7e22b"
     },
     {
-        "path": "/media/posts/33/responsive/hero-4-xs.webp",
+        "path": "/media/posts/33/responsive/Testimonials-xs.webp",
         "type": "file",
-        "md5": "65a07dce385fc11a2aca78174da0709c"
+        "md5": "1631c14ec19cc9756ce7d860a8840a06"
+    },
+    {
+        "path": "/media/posts/33/Testimonials.png",
+        "type": "file",
+        "md5": "b5983507673ca7a0e0c15f969369a43b"
     },
     {
         "path": "media/posts/34",
@@ -1740,44 +1685,44 @@
         "md5": false
     },
     {
-        "path": "/media/posts/34/hero-4.png",
-        "type": "file",
-        "md5": "3fb297b27217be2066eeca6e687ee561"
-    },
-    {
         "path": "media/posts/34/responsive",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/posts/34/responsive/hero-4-2xl.webp",
+        "path": "/media/posts/34/responsive/Testimonials-2xl.webp",
         "type": "file",
-        "md5": "3dd21d1c4163d62bade94c44f6a21173"
+        "md5": "c2187aa2d3ba04c3bb4734f4c0fb3b6c"
     },
     {
-        "path": "/media/posts/34/responsive/hero-4-lg.webp",
+        "path": "/media/posts/34/responsive/Testimonials-lg.webp",
         "type": "file",
-        "md5": "0c860a948ff51b3a19ba1a9c733c17df"
+        "md5": "26a6e117f5bce5c79a7f883efad2e6f7"
     },
     {
-        "path": "/media/posts/34/responsive/hero-4-md.webp",
+        "path": "/media/posts/34/responsive/Testimonials-md.webp",
         "type": "file",
-        "md5": "e8261c5c5cea9aa070577a94a19f15d3"
+        "md5": "b13e266189b2f7f61f36e8e2fa56ef0f"
     },
     {
-        "path": "/media/posts/34/responsive/hero-4-sm.webp",
+        "path": "/media/posts/34/responsive/Testimonials-sm.webp",
         "type": "file",
-        "md5": "dde6a4fdebda3e91e8d0ac734b8ae18b"
+        "md5": "d184e9398309c2b2dc2bbd65fb108fc7"
     },
     {
-        "path": "/media/posts/34/responsive/hero-4-xl.webp",
+        "path": "/media/posts/34/responsive/Testimonials-xl.webp",
         "type": "file",
-        "md5": "fff6c2728cb32d481c27c5e72bd2e032"
+        "md5": "89f34cb9a6a43bdf4457d6b804d7e22b"
     },
     {
-        "path": "/media/posts/34/responsive/hero-4-xs.webp",
+        "path": "/media/posts/34/responsive/Testimonials-xs.webp",
         "type": "file",
-        "md5": "65a07dce385fc11a2aca78174da0709c"
+        "md5": "1631c14ec19cc9756ce7d860a8840a06"
+    },
+    {
+        "path": "/media/posts/34/Testimonials.png",
+        "type": "file",
+        "md5": "b5983507673ca7a0e0c15f969369a43b"
     },
     {
         "path": "media/posts/35",
@@ -1785,44 +1730,44 @@
         "md5": false
     },
     {
-        "path": "/media/posts/35/hero-4.png",
-        "type": "file",
-        "md5": "3fb297b27217be2066eeca6e687ee561"
-    },
-    {
         "path": "media/posts/35/responsive",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/posts/35/responsive/hero-4-2xl.webp",
+        "path": "/media/posts/35/responsive/Testimonials-2xl.webp",
         "type": "file",
-        "md5": "3dd21d1c4163d62bade94c44f6a21173"
+        "md5": "c2187aa2d3ba04c3bb4734f4c0fb3b6c"
     },
     {
-        "path": "/media/posts/35/responsive/hero-4-lg.webp",
+        "path": "/media/posts/35/responsive/Testimonials-lg.webp",
         "type": "file",
-        "md5": "0c860a948ff51b3a19ba1a9c733c17df"
+        "md5": "26a6e117f5bce5c79a7f883efad2e6f7"
     },
     {
-        "path": "/media/posts/35/responsive/hero-4-md.webp",
+        "path": "/media/posts/35/responsive/Testimonials-md.webp",
         "type": "file",
-        "md5": "e8261c5c5cea9aa070577a94a19f15d3"
+        "md5": "b13e266189b2f7f61f36e8e2fa56ef0f"
     },
     {
-        "path": "/media/posts/35/responsive/hero-4-sm.webp",
+        "path": "/media/posts/35/responsive/Testimonials-sm.webp",
         "type": "file",
-        "md5": "dde6a4fdebda3e91e8d0ac734b8ae18b"
+        "md5": "d184e9398309c2b2dc2bbd65fb108fc7"
     },
     {
-        "path": "/media/posts/35/responsive/hero-4-xl.webp",
+        "path": "/media/posts/35/responsive/Testimonials-xl.webp",
         "type": "file",
-        "md5": "fff6c2728cb32d481c27c5e72bd2e032"
+        "md5": "89f34cb9a6a43bdf4457d6b804d7e22b"
     },
     {
-        "path": "/media/posts/35/responsive/hero-4-xs.webp",
+        "path": "/media/posts/35/responsive/Testimonials-xs.webp",
         "type": "file",
-        "md5": "65a07dce385fc11a2aca78174da0709c"
+        "md5": "1631c14ec19cc9756ce7d860a8840a06"
+    },
+    {
+        "path": "/media/posts/35/Testimonials.png",
+        "type": "file",
+        "md5": "b5983507673ca7a0e0c15f969369a43b"
     },
     {
         "path": "media/posts/36",
@@ -1830,44 +1775,44 @@
         "md5": false
     },
     {
-        "path": "/media/posts/36/hero-4.png",
-        "type": "file",
-        "md5": "3fb297b27217be2066eeca6e687ee561"
-    },
-    {
         "path": "media/posts/36/responsive",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/posts/36/responsive/hero-4-2xl.webp",
+        "path": "/media/posts/36/responsive/Testimonials-2xl.webp",
         "type": "file",
-        "md5": "3dd21d1c4163d62bade94c44f6a21173"
+        "md5": "c2187aa2d3ba04c3bb4734f4c0fb3b6c"
     },
     {
-        "path": "/media/posts/36/responsive/hero-4-lg.webp",
+        "path": "/media/posts/36/responsive/Testimonials-lg.webp",
         "type": "file",
-        "md5": "0c860a948ff51b3a19ba1a9c733c17df"
+        "md5": "26a6e117f5bce5c79a7f883efad2e6f7"
     },
     {
-        "path": "/media/posts/36/responsive/hero-4-md.webp",
+        "path": "/media/posts/36/responsive/Testimonials-md.webp",
         "type": "file",
-        "md5": "e8261c5c5cea9aa070577a94a19f15d3"
+        "md5": "b13e266189b2f7f61f36e8e2fa56ef0f"
     },
     {
-        "path": "/media/posts/36/responsive/hero-4-sm.webp",
+        "path": "/media/posts/36/responsive/Testimonials-sm.webp",
         "type": "file",
-        "md5": "dde6a4fdebda3e91e8d0ac734b8ae18b"
+        "md5": "d184e9398309c2b2dc2bbd65fb108fc7"
     },
     {
-        "path": "/media/posts/36/responsive/hero-4-xl.webp",
+        "path": "/media/posts/36/responsive/Testimonials-xl.webp",
         "type": "file",
-        "md5": "fff6c2728cb32d481c27c5e72bd2e032"
+        "md5": "89f34cb9a6a43bdf4457d6b804d7e22b"
     },
     {
-        "path": "/media/posts/36/responsive/hero-4-xs.webp",
+        "path": "/media/posts/36/responsive/Testimonials-xs.webp",
         "type": "file",
-        "md5": "65a07dce385fc11a2aca78174da0709c"
+        "md5": "1631c14ec19cc9756ce7d860a8840a06"
+    },
+    {
+        "path": "/media/posts/36/Testimonials.png",
+        "type": "file",
+        "md5": "b5983507673ca7a0e0c15f969369a43b"
     },
     {
         "path": "media/posts/37",
@@ -1875,44 +1820,44 @@
         "md5": false
     },
     {
-        "path": "/media/posts/37/hero-12.png",
-        "type": "file",
-        "md5": "9dc7c98120c33152af4650ae51c44ce7"
-    },
-    {
         "path": "media/posts/37/responsive",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/posts/37/responsive/hero-12-2xl.webp",
+        "path": "/media/posts/37/responsive/three-vessels-2xl.webp",
         "type": "file",
-        "md5": "8f353e82e7778630ba75c07ee5cf5fed"
+        "md5": "1ef3f26a61806a2a94ac1480e64a1fbe"
     },
     {
-        "path": "/media/posts/37/responsive/hero-12-lg.webp",
+        "path": "/media/posts/37/responsive/three-vessels-lg.webp",
         "type": "file",
-        "md5": "3694167e168d8d8ef9dbe7848a9bbec6"
+        "md5": "b0659e200a6b93432b02aea6f242ad6a"
     },
     {
-        "path": "/media/posts/37/responsive/hero-12-md.webp",
+        "path": "/media/posts/37/responsive/three-vessels-md.webp",
         "type": "file",
-        "md5": "c25f868aac5a1059f1fb9a80c82aae4b"
+        "md5": "59106d5f37544f2d077d15e3d15c7c2d"
     },
     {
-        "path": "/media/posts/37/responsive/hero-12-sm.webp",
+        "path": "/media/posts/37/responsive/three-vessels-sm.webp",
         "type": "file",
-        "md5": "fc257d220937aa3d9d3c7ebae483f73d"
+        "md5": "bf7875ecfbf342ace695a678bcaf9d16"
     },
     {
-        "path": "/media/posts/37/responsive/hero-12-xl.webp",
+        "path": "/media/posts/37/responsive/three-vessels-xl.webp",
         "type": "file",
-        "md5": "8473379de3aca09920c9029c728027b1"
+        "md5": "511e980d8b65d24b9988b445fba5e314"
     },
     {
-        "path": "/media/posts/37/responsive/hero-12-xs.webp",
+        "path": "/media/posts/37/responsive/three-vessels-xs.webp",
         "type": "file",
-        "md5": "7741f41daeada00ece2ec2651df8c6c9"
+        "md5": "b654621c19567275aefa392cf90b216a"
+    },
+    {
+        "path": "/media/posts/37/three-vessels.png",
+        "type": "file",
+        "md5": "a8193f935ed8904a5727834517917670"
     },
     {
         "path": "media/posts/38",
@@ -1920,44 +1865,44 @@
         "md5": false
     },
     {
-        "path": "/media/posts/38/hero-12.png",
-        "type": "file",
-        "md5": "9dc7c98120c33152af4650ae51c44ce7"
-    },
-    {
         "path": "media/posts/38/responsive",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/posts/38/responsive/hero-12-2xl.webp",
+        "path": "/media/posts/38/responsive/three-vessels-2xl.webp",
         "type": "file",
-        "md5": "8f353e82e7778630ba75c07ee5cf5fed"
+        "md5": "1ef3f26a61806a2a94ac1480e64a1fbe"
     },
     {
-        "path": "/media/posts/38/responsive/hero-12-lg.webp",
+        "path": "/media/posts/38/responsive/three-vessels-lg.webp",
         "type": "file",
-        "md5": "3694167e168d8d8ef9dbe7848a9bbec6"
+        "md5": "b0659e200a6b93432b02aea6f242ad6a"
     },
     {
-        "path": "/media/posts/38/responsive/hero-12-md.webp",
+        "path": "/media/posts/38/responsive/three-vessels-md.webp",
         "type": "file",
-        "md5": "c25f868aac5a1059f1fb9a80c82aae4b"
+        "md5": "59106d5f37544f2d077d15e3d15c7c2d"
     },
     {
-        "path": "/media/posts/38/responsive/hero-12-sm.webp",
+        "path": "/media/posts/38/responsive/three-vessels-sm.webp",
         "type": "file",
-        "md5": "fc257d220937aa3d9d3c7ebae483f73d"
+        "md5": "bf7875ecfbf342ace695a678bcaf9d16"
     },
     {
-        "path": "/media/posts/38/responsive/hero-12-xl.webp",
+        "path": "/media/posts/38/responsive/three-vessels-xl.webp",
         "type": "file",
-        "md5": "8473379de3aca09920c9029c728027b1"
+        "md5": "511e980d8b65d24b9988b445fba5e314"
     },
     {
-        "path": "/media/posts/38/responsive/hero-12-xs.webp",
+        "path": "/media/posts/38/responsive/three-vessels-xs.webp",
         "type": "file",
-        "md5": "7741f41daeada00ece2ec2651df8c6c9"
+        "md5": "b654621c19567275aefa392cf90b216a"
+    },
+    {
+        "path": "/media/posts/38/three-vessels.png",
+        "type": "file",
+        "md5": "a8193f935ed8904a5727834517917670"
     },
     {
         "path": "media/posts/39",
@@ -1965,44 +1910,44 @@
         "md5": false
     },
     {
-        "path": "/media/posts/39/hero-12.png",
-        "type": "file",
-        "md5": "9dc7c98120c33152af4650ae51c44ce7"
-    },
-    {
         "path": "media/posts/39/responsive",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/posts/39/responsive/hero-12-2xl.webp",
+        "path": "/media/posts/39/responsive/three-vessels-2xl.webp",
         "type": "file",
-        "md5": "8f353e82e7778630ba75c07ee5cf5fed"
+        "md5": "1ef3f26a61806a2a94ac1480e64a1fbe"
     },
     {
-        "path": "/media/posts/39/responsive/hero-12-lg.webp",
+        "path": "/media/posts/39/responsive/three-vessels-lg.webp",
         "type": "file",
-        "md5": "3694167e168d8d8ef9dbe7848a9bbec6"
+        "md5": "b0659e200a6b93432b02aea6f242ad6a"
     },
     {
-        "path": "/media/posts/39/responsive/hero-12-md.webp",
+        "path": "/media/posts/39/responsive/three-vessels-md.webp",
         "type": "file",
-        "md5": "c25f868aac5a1059f1fb9a80c82aae4b"
+        "md5": "59106d5f37544f2d077d15e3d15c7c2d"
     },
     {
-        "path": "/media/posts/39/responsive/hero-12-sm.webp",
+        "path": "/media/posts/39/responsive/three-vessels-sm.webp",
         "type": "file",
-        "md5": "fc257d220937aa3d9d3c7ebae483f73d"
+        "md5": "bf7875ecfbf342ace695a678bcaf9d16"
     },
     {
-        "path": "/media/posts/39/responsive/hero-12-xl.webp",
+        "path": "/media/posts/39/responsive/three-vessels-xl.webp",
         "type": "file",
-        "md5": "8473379de3aca09920c9029c728027b1"
+        "md5": "511e980d8b65d24b9988b445fba5e314"
     },
     {
-        "path": "/media/posts/39/responsive/hero-12-xs.webp",
+        "path": "/media/posts/39/responsive/three-vessels-xs.webp",
         "type": "file",
-        "md5": "7741f41daeada00ece2ec2651df8c6c9"
+        "md5": "b654621c19567275aefa392cf90b216a"
+    },
+    {
+        "path": "/media/posts/39/three-vessels.png",
+        "type": "file",
+        "md5": "a8193f935ed8904a5727834517917670"
     },
     {
         "path": "media/posts/40",
@@ -2010,44 +1955,44 @@
         "md5": false
     },
     {
-        "path": "/media/posts/40/hero-12.png",
-        "type": "file",
-        "md5": "9dc7c98120c33152af4650ae51c44ce7"
-    },
-    {
         "path": "media/posts/40/responsive",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/posts/40/responsive/hero-12-2xl.webp",
+        "path": "/media/posts/40/responsive/three-vessels-2xl.webp",
         "type": "file",
-        "md5": "8f353e82e7778630ba75c07ee5cf5fed"
+        "md5": "1ef3f26a61806a2a94ac1480e64a1fbe"
     },
     {
-        "path": "/media/posts/40/responsive/hero-12-lg.webp",
+        "path": "/media/posts/40/responsive/three-vessels-lg.webp",
         "type": "file",
-        "md5": "3694167e168d8d8ef9dbe7848a9bbec6"
+        "md5": "b0659e200a6b93432b02aea6f242ad6a"
     },
     {
-        "path": "/media/posts/40/responsive/hero-12-md.webp",
+        "path": "/media/posts/40/responsive/three-vessels-md.webp",
         "type": "file",
-        "md5": "c25f868aac5a1059f1fb9a80c82aae4b"
+        "md5": "59106d5f37544f2d077d15e3d15c7c2d"
     },
     {
-        "path": "/media/posts/40/responsive/hero-12-sm.webp",
+        "path": "/media/posts/40/responsive/three-vessels-sm.webp",
         "type": "file",
-        "md5": "fc257d220937aa3d9d3c7ebae483f73d"
+        "md5": "bf7875ecfbf342ace695a678bcaf9d16"
     },
     {
-        "path": "/media/posts/40/responsive/hero-12-xl.webp",
+        "path": "/media/posts/40/responsive/three-vessels-xl.webp",
         "type": "file",
-        "md5": "8473379de3aca09920c9029c728027b1"
+        "md5": "511e980d8b65d24b9988b445fba5e314"
     },
     {
-        "path": "/media/posts/40/responsive/hero-12-xs.webp",
+        "path": "/media/posts/40/responsive/three-vessels-xs.webp",
         "type": "file",
-        "md5": "7741f41daeada00ece2ec2651df8c6c9"
+        "md5": "b654621c19567275aefa392cf90b216a"
+    },
+    {
+        "path": "/media/posts/40/three-vessels.png",
+        "type": "file",
+        "md5": "a8193f935ed8904a5727834517917670"
     },
     {
         "path": "media/posts/41",
@@ -2055,44 +2000,44 @@
         "md5": false
     },
     {
-        "path": "/media/posts/41/hero-12.png",
-        "type": "file",
-        "md5": "9dc7c98120c33152af4650ae51c44ce7"
-    },
-    {
         "path": "media/posts/41/responsive",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/posts/41/responsive/hero-12-2xl.webp",
+        "path": "/media/posts/41/responsive/three-vessels-2xl.webp",
         "type": "file",
-        "md5": "8f353e82e7778630ba75c07ee5cf5fed"
+        "md5": "1ef3f26a61806a2a94ac1480e64a1fbe"
     },
     {
-        "path": "/media/posts/41/responsive/hero-12-lg.webp",
+        "path": "/media/posts/41/responsive/three-vessels-lg.webp",
         "type": "file",
-        "md5": "3694167e168d8d8ef9dbe7848a9bbec6"
+        "md5": "b0659e200a6b93432b02aea6f242ad6a"
     },
     {
-        "path": "/media/posts/41/responsive/hero-12-md.webp",
+        "path": "/media/posts/41/responsive/three-vessels-md.webp",
         "type": "file",
-        "md5": "c25f868aac5a1059f1fb9a80c82aae4b"
+        "md5": "59106d5f37544f2d077d15e3d15c7c2d"
     },
     {
-        "path": "/media/posts/41/responsive/hero-12-sm.webp",
+        "path": "/media/posts/41/responsive/three-vessels-sm.webp",
         "type": "file",
-        "md5": "fc257d220937aa3d9d3c7ebae483f73d"
+        "md5": "bf7875ecfbf342ace695a678bcaf9d16"
     },
     {
-        "path": "/media/posts/41/responsive/hero-12-xl.webp",
+        "path": "/media/posts/41/responsive/three-vessels-xl.webp",
         "type": "file",
-        "md5": "8473379de3aca09920c9029c728027b1"
+        "md5": "511e980d8b65d24b9988b445fba5e314"
     },
     {
-        "path": "/media/posts/41/responsive/hero-12-xs.webp",
+        "path": "/media/posts/41/responsive/three-vessels-xs.webp",
         "type": "file",
-        "md5": "7741f41daeada00ece2ec2651df8c6c9"
+        "md5": "b654621c19567275aefa392cf90b216a"
+    },
+    {
+        "path": "/media/posts/41/three-vessels.png",
+        "type": "file",
+        "md5": "a8193f935ed8904a5727834517917670"
     },
     {
         "path": "media/posts/42",
@@ -2100,9 +2045,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/42/hero-6.png",
+        "path": "/media/posts/42/path.png",
         "type": "file",
-        "md5": "774b8c5ef951d9c3011787ecbad440ad"
+        "md5": "e6efad5b6c3517b1009c412b84d06bd2"
     },
     {
         "path": "media/posts/42/responsive",
@@ -2110,34 +2055,34 @@
         "md5": false
     },
     {
-        "path": "/media/posts/42/responsive/hero-6-2xl.webp",
+        "path": "/media/posts/42/responsive/path-2xl.webp",
         "type": "file",
-        "md5": "a175c7aaa7023982ff5a34928463a1e0"
+        "md5": "ddadcdd3b57c6271f08f78cde0f74b82"
     },
     {
-        "path": "/media/posts/42/responsive/hero-6-lg.webp",
+        "path": "/media/posts/42/responsive/path-lg.webp",
         "type": "file",
-        "md5": "4d08a59269753c81b07afc20a07cdd19"
+        "md5": "45bf87d9c10ed471d9f265b78a00d7dc"
     },
     {
-        "path": "/media/posts/42/responsive/hero-6-md.webp",
+        "path": "/media/posts/42/responsive/path-md.webp",
         "type": "file",
-        "md5": "e882dcb0dc2898b4f6d64f2b7b46b3d4"
+        "md5": "775471e9cbfb4c6b740cdd20a79b9059"
     },
     {
-        "path": "/media/posts/42/responsive/hero-6-sm.webp",
+        "path": "/media/posts/42/responsive/path-sm.webp",
         "type": "file",
-        "md5": "d51408b5dcdd13f9d1737f83466d5f3a"
+        "md5": "9a34ef9f635101843c9c81955f6ec589"
     },
     {
-        "path": "/media/posts/42/responsive/hero-6-xl.webp",
+        "path": "/media/posts/42/responsive/path-xl.webp",
         "type": "file",
-        "md5": "223ee4c08d640b7fd93cbab110e7ecf1"
+        "md5": "8e19eff356d137bea6315979899c996e"
     },
     {
-        "path": "/media/posts/42/responsive/hero-6-xs.webp",
+        "path": "/media/posts/42/responsive/path-xs.webp",
         "type": "file",
-        "md5": "0d601a86f337b97c821ad1f213414f39"
+        "md5": "392214db3466e3ca28828123f0eb2b64"
     },
     {
         "path": "media/posts/43",
@@ -2145,9 +2090,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/43/hero-6.png",
+        "path": "/media/posts/43/path.png",
         "type": "file",
-        "md5": "774b8c5ef951d9c3011787ecbad440ad"
+        "md5": "e6efad5b6c3517b1009c412b84d06bd2"
     },
     {
         "path": "media/posts/43/responsive",
@@ -2155,34 +2100,34 @@
         "md5": false
     },
     {
-        "path": "/media/posts/43/responsive/hero-6-2xl.webp",
+        "path": "/media/posts/43/responsive/path-2xl.webp",
         "type": "file",
-        "md5": "a175c7aaa7023982ff5a34928463a1e0"
+        "md5": "ddadcdd3b57c6271f08f78cde0f74b82"
     },
     {
-        "path": "/media/posts/43/responsive/hero-6-lg.webp",
+        "path": "/media/posts/43/responsive/path-lg.webp",
         "type": "file",
-        "md5": "4d08a59269753c81b07afc20a07cdd19"
+        "md5": "45bf87d9c10ed471d9f265b78a00d7dc"
     },
     {
-        "path": "/media/posts/43/responsive/hero-6-md.webp",
+        "path": "/media/posts/43/responsive/path-md.webp",
         "type": "file",
-        "md5": "e882dcb0dc2898b4f6d64f2b7b46b3d4"
+        "md5": "775471e9cbfb4c6b740cdd20a79b9059"
     },
     {
-        "path": "/media/posts/43/responsive/hero-6-sm.webp",
+        "path": "/media/posts/43/responsive/path-sm.webp",
         "type": "file",
-        "md5": "d51408b5dcdd13f9d1737f83466d5f3a"
+        "md5": "9a34ef9f635101843c9c81955f6ec589"
     },
     {
-        "path": "/media/posts/43/responsive/hero-6-xl.webp",
+        "path": "/media/posts/43/responsive/path-xl.webp",
         "type": "file",
-        "md5": "223ee4c08d640b7fd93cbab110e7ecf1"
+        "md5": "8e19eff356d137bea6315979899c996e"
     },
     {
-        "path": "/media/posts/43/responsive/hero-6-xs.webp",
+        "path": "/media/posts/43/responsive/path-xs.webp",
         "type": "file",
-        "md5": "0d601a86f337b97c821ad1f213414f39"
+        "md5": "392214db3466e3ca28828123f0eb2b64"
     },
     {
         "path": "media/posts/44",
@@ -2190,9 +2135,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/44/hero-6.png",
+        "path": "/media/posts/44/path.png",
         "type": "file",
-        "md5": "774b8c5ef951d9c3011787ecbad440ad"
+        "md5": "e6efad5b6c3517b1009c412b84d06bd2"
     },
     {
         "path": "media/posts/44/responsive",
@@ -2200,34 +2145,34 @@
         "md5": false
     },
     {
-        "path": "/media/posts/44/responsive/hero-6-2xl.webp",
+        "path": "/media/posts/44/responsive/path-2xl.webp",
         "type": "file",
-        "md5": "a175c7aaa7023982ff5a34928463a1e0"
+        "md5": "ddadcdd3b57c6271f08f78cde0f74b82"
     },
     {
-        "path": "/media/posts/44/responsive/hero-6-lg.webp",
+        "path": "/media/posts/44/responsive/path-lg.webp",
         "type": "file",
-        "md5": "4d08a59269753c81b07afc20a07cdd19"
+        "md5": "45bf87d9c10ed471d9f265b78a00d7dc"
     },
     {
-        "path": "/media/posts/44/responsive/hero-6-md.webp",
+        "path": "/media/posts/44/responsive/path-md.webp",
         "type": "file",
-        "md5": "e882dcb0dc2898b4f6d64f2b7b46b3d4"
+        "md5": "775471e9cbfb4c6b740cdd20a79b9059"
     },
     {
-        "path": "/media/posts/44/responsive/hero-6-sm.webp",
+        "path": "/media/posts/44/responsive/path-sm.webp",
         "type": "file",
-        "md5": "d51408b5dcdd13f9d1737f83466d5f3a"
+        "md5": "9a34ef9f635101843c9c81955f6ec589"
     },
     {
-        "path": "/media/posts/44/responsive/hero-6-xl.webp",
+        "path": "/media/posts/44/responsive/path-xl.webp",
         "type": "file",
-        "md5": "223ee4c08d640b7fd93cbab110e7ecf1"
+        "md5": "8e19eff356d137bea6315979899c996e"
     },
     {
-        "path": "/media/posts/44/responsive/hero-6-xs.webp",
+        "path": "/media/posts/44/responsive/path-xs.webp",
         "type": "file",
-        "md5": "0d601a86f337b97c821ad1f213414f39"
+        "md5": "392214db3466e3ca28828123f0eb2b64"
     },
     {
         "path": "media/posts/45",
@@ -2235,9 +2180,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/45/hero-6.png",
+        "path": "/media/posts/45/path.png",
         "type": "file",
-        "md5": "774b8c5ef951d9c3011787ecbad440ad"
+        "md5": "e6efad5b6c3517b1009c412b84d06bd2"
     },
     {
         "path": "media/posts/45/responsive",
@@ -2245,79 +2190,34 @@
         "md5": false
     },
     {
-        "path": "/media/posts/45/responsive/hero-6-2xl.webp",
+        "path": "/media/posts/45/responsive/path-2xl.webp",
         "type": "file",
-        "md5": "a175c7aaa7023982ff5a34928463a1e0"
+        "md5": "ddadcdd3b57c6271f08f78cde0f74b82"
     },
     {
-        "path": "/media/posts/45/responsive/hero-6-lg.webp",
+        "path": "/media/posts/45/responsive/path-lg.webp",
         "type": "file",
-        "md5": "4d08a59269753c81b07afc20a07cdd19"
+        "md5": "45bf87d9c10ed471d9f265b78a00d7dc"
     },
     {
-        "path": "/media/posts/45/responsive/hero-6-md.webp",
+        "path": "/media/posts/45/responsive/path-md.webp",
         "type": "file",
-        "md5": "e882dcb0dc2898b4f6d64f2b7b46b3d4"
+        "md5": "775471e9cbfb4c6b740cdd20a79b9059"
     },
     {
-        "path": "/media/posts/45/responsive/hero-6-sm.webp",
+        "path": "/media/posts/45/responsive/path-sm.webp",
         "type": "file",
-        "md5": "d51408b5dcdd13f9d1737f83466d5f3a"
+        "md5": "9a34ef9f635101843c9c81955f6ec589"
     },
     {
-        "path": "/media/posts/45/responsive/hero-6-xl.webp",
+        "path": "/media/posts/45/responsive/path-xl.webp",
         "type": "file",
-        "md5": "223ee4c08d640b7fd93cbab110e7ecf1"
+        "md5": "8e19eff356d137bea6315979899c996e"
     },
     {
-        "path": "/media/posts/45/responsive/hero-6-xs.webp",
+        "path": "/media/posts/45/responsive/path-xs.webp",
         "type": "file",
-        "md5": "0d601a86f337b97c821ad1f213414f39"
-    },
-    {
-        "path": "media/posts/46",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/46/hero-6.png",
-        "type": "file",
-        "md5": "774b8c5ef951d9c3011787ecbad440ad"
-    },
-    {
-        "path": "media/posts/46/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/46/responsive/hero-6-2xl.webp",
-        "type": "file",
-        "md5": "a175c7aaa7023982ff5a34928463a1e0"
-    },
-    {
-        "path": "/media/posts/46/responsive/hero-6-lg.webp",
-        "type": "file",
-        "md5": "4d08a59269753c81b07afc20a07cdd19"
-    },
-    {
-        "path": "/media/posts/46/responsive/hero-6-md.webp",
-        "type": "file",
-        "md5": "e882dcb0dc2898b4f6d64f2b7b46b3d4"
-    },
-    {
-        "path": "/media/posts/46/responsive/hero-6-sm.webp",
-        "type": "file",
-        "md5": "d51408b5dcdd13f9d1737f83466d5f3a"
-    },
-    {
-        "path": "/media/posts/46/responsive/hero-6-xl.webp",
-        "type": "file",
-        "md5": "223ee4c08d640b7fd93cbab110e7ecf1"
-    },
-    {
-        "path": "/media/posts/46/responsive/hero-6-xs.webp",
-        "type": "file",
-        "md5": "0d601a86f337b97c821ad1f213414f39"
+        "md5": "392214db3466e3ca28828123f0eb2b64"
     },
     {
         "path": "media/posts/49",
@@ -2325,9 +2225,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/49/hero-3.png",
+        "path": "/media/posts/49/Elders-Under-Tree.png",
         "type": "file",
-        "md5": "9dfde8614e9a2205acae27704e9aa64c"
+        "md5": "9cba63dff5956fda5ef50055c300e6ca"
     },
     {
         "path": "media/posts/49/responsive",
@@ -2335,34 +2235,34 @@
         "md5": false
     },
     {
-        "path": "/media/posts/49/responsive/hero-3-2xl.webp",
+        "path": "/media/posts/49/responsive/Elders-Under-Tree-2xl.webp",
         "type": "file",
-        "md5": "757a30bcf44253f5b9e94ccca66d539c"
+        "md5": "83257d7b7cf6d44f0e59c6255aeaa1b3"
     },
     {
-        "path": "/media/posts/49/responsive/hero-3-lg.webp",
+        "path": "/media/posts/49/responsive/Elders-Under-Tree-lg.webp",
         "type": "file",
-        "md5": "6807182da023df873cded68aa2dcba1a"
+        "md5": "5ace29ababf411f0be49d39aa8ef9ac9"
     },
     {
-        "path": "/media/posts/49/responsive/hero-3-md.webp",
+        "path": "/media/posts/49/responsive/Elders-Under-Tree-md.webp",
         "type": "file",
-        "md5": "9ff89130d71e1110bbdaefc9f9785a95"
+        "md5": "0243997db1df929090d1f2ce847cfc72"
     },
     {
-        "path": "/media/posts/49/responsive/hero-3-sm.webp",
+        "path": "/media/posts/49/responsive/Elders-Under-Tree-sm.webp",
         "type": "file",
-        "md5": "9eeafdd60780a486709709a4d88f1524"
+        "md5": "d6ac317ce0b5a7e39616c4559d3c94f9"
     },
     {
-        "path": "/media/posts/49/responsive/hero-3-xl.webp",
+        "path": "/media/posts/49/responsive/Elders-Under-Tree-xl.webp",
         "type": "file",
-        "md5": "a1e743bfaf678c74bd38cdfc23ba361c"
+        "md5": "a1c29dc2f77f199357e126a3360385bb"
     },
     {
-        "path": "/media/posts/49/responsive/hero-3-xs.webp",
+        "path": "/media/posts/49/responsive/Elders-Under-Tree-xs.webp",
         "type": "file",
-        "md5": "f779d46f4e798f03f2252ae267de824d"
+        "md5": "c7233751659fcd9cfc51d50129858ac0"
     },
     {
         "path": "media/posts/5",
@@ -2385,9 +2285,9 @@
         "md5": "1254d305f8452d7761257fd2530d9c7c"
     },
     {
-        "path": "/media/posts/5/nairobi.png",
+        "path": "/media/posts/5/Pollution-Air.png",
         "type": "file",
-        "md5": "1b379d9839e000fc5dcb34826f5e0e25"
+        "md5": "e1844ccfba7fe7d3d709a9b57837f955"
     },
     {
         "path": "media/posts/5/responsive",
@@ -2485,34 +2385,34 @@
         "md5": "7691d0a1c8c162fae15eb101502c70b5"
     },
     {
-        "path": "/media/posts/5/responsive/nairobi-2xl.webp",
+        "path": "/media/posts/5/responsive/Pollution-Air-2xl.webp",
         "type": "file",
-        "md5": "8d0704fcef46963c5d310afa43064e57"
+        "md5": "70e5d227d3e22971726ce0d1825512b4"
     },
     {
-        "path": "/media/posts/5/responsive/nairobi-lg.webp",
+        "path": "/media/posts/5/responsive/Pollution-Air-lg.webp",
         "type": "file",
-        "md5": "9656a9353b59d48d6b143cfb807eaf37"
+        "md5": "245de780f1701cc5dfe9e45ec30c142e"
     },
     {
-        "path": "/media/posts/5/responsive/nairobi-md.webp",
+        "path": "/media/posts/5/responsive/Pollution-Air-md.webp",
         "type": "file",
-        "md5": "563e9bbb8a45f8456db570462a4172d5"
+        "md5": "4a4a2da3907dedc5a65ad70822ae0b15"
     },
     {
-        "path": "/media/posts/5/responsive/nairobi-sm.webp",
+        "path": "/media/posts/5/responsive/Pollution-Air-sm.webp",
         "type": "file",
-        "md5": "9b9e530c53123457c05f3ab8985ce240"
+        "md5": "a7f473bd11499fc971405b75d0757612"
     },
     {
-        "path": "/media/posts/5/responsive/nairobi-xl.webp",
+        "path": "/media/posts/5/responsive/Pollution-Air-xl.webp",
         "type": "file",
-        "md5": "6112a4f939183fc4f2092c1f1d3b6ad4"
+        "md5": "b5ec1868cc032026a1a83a4636546d85"
     },
     {
-        "path": "/media/posts/5/responsive/nairobi-xs.webp",
+        "path": "/media/posts/5/responsive/Pollution-Air-xs.webp",
         "type": "file",
-        "md5": "86737e4ddad0a42a7119e451f9e1e8b0"
+        "md5": "726540f4d6eca2c3be4ca1a63dde4c48"
     },
     {
         "path": "media/posts/50",
@@ -2520,9 +2420,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/50/hero-3.png",
+        "path": "/media/posts/50/Elders-Under-Tree.png",
         "type": "file",
-        "md5": "9dfde8614e9a2205acae27704e9aa64c"
+        "md5": "9cba63dff5956fda5ef50055c300e6ca"
     },
     {
         "path": "media/posts/50/responsive",
@@ -2530,34 +2430,34 @@
         "md5": false
     },
     {
-        "path": "/media/posts/50/responsive/hero-3-2xl.webp",
+        "path": "/media/posts/50/responsive/Elders-Under-Tree-2xl.webp",
         "type": "file",
-        "md5": "757a30bcf44253f5b9e94ccca66d539c"
+        "md5": "83257d7b7cf6d44f0e59c6255aeaa1b3"
     },
     {
-        "path": "/media/posts/50/responsive/hero-3-lg.webp",
+        "path": "/media/posts/50/responsive/Elders-Under-Tree-lg.webp",
         "type": "file",
-        "md5": "6807182da023df873cded68aa2dcba1a"
+        "md5": "5ace29ababf411f0be49d39aa8ef9ac9"
     },
     {
-        "path": "/media/posts/50/responsive/hero-3-md.webp",
+        "path": "/media/posts/50/responsive/Elders-Under-Tree-md.webp",
         "type": "file",
-        "md5": "9ff89130d71e1110bbdaefc9f9785a95"
+        "md5": "0243997db1df929090d1f2ce847cfc72"
     },
     {
-        "path": "/media/posts/50/responsive/hero-3-sm.webp",
+        "path": "/media/posts/50/responsive/Elders-Under-Tree-sm.webp",
         "type": "file",
-        "md5": "9eeafdd60780a486709709a4d88f1524"
+        "md5": "d6ac317ce0b5a7e39616c4559d3c94f9"
     },
     {
-        "path": "/media/posts/50/responsive/hero-3-xl.webp",
+        "path": "/media/posts/50/responsive/Elders-Under-Tree-xl.webp",
         "type": "file",
-        "md5": "a1e743bfaf678c74bd38cdfc23ba361c"
+        "md5": "a1c29dc2f77f199357e126a3360385bb"
     },
     {
-        "path": "/media/posts/50/responsive/hero-3-xs.webp",
+        "path": "/media/posts/50/responsive/Elders-Under-Tree-xs.webp",
         "type": "file",
-        "md5": "f779d46f4e798f03f2252ae267de824d"
+        "md5": "c7233751659fcd9cfc51d50129858ac0"
     },
     {
         "path": "media/posts/51",
@@ -2565,9 +2465,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/51/hero-3.png",
+        "path": "/media/posts/51/Elders-Under-Tree.png",
         "type": "file",
-        "md5": "9dfde8614e9a2205acae27704e9aa64c"
+        "md5": "9cba63dff5956fda5ef50055c300e6ca"
     },
     {
         "path": "media/posts/51/responsive",
@@ -2575,34 +2475,34 @@
         "md5": false
     },
     {
-        "path": "/media/posts/51/responsive/hero-3-2xl.webp",
+        "path": "/media/posts/51/responsive/Elders-Under-Tree-2xl.webp",
         "type": "file",
-        "md5": "757a30bcf44253f5b9e94ccca66d539c"
+        "md5": "83257d7b7cf6d44f0e59c6255aeaa1b3"
     },
     {
-        "path": "/media/posts/51/responsive/hero-3-lg.webp",
+        "path": "/media/posts/51/responsive/Elders-Under-Tree-lg.webp",
         "type": "file",
-        "md5": "6807182da023df873cded68aa2dcba1a"
+        "md5": "5ace29ababf411f0be49d39aa8ef9ac9"
     },
     {
-        "path": "/media/posts/51/responsive/hero-3-md.webp",
+        "path": "/media/posts/51/responsive/Elders-Under-Tree-md.webp",
         "type": "file",
-        "md5": "9ff89130d71e1110bbdaefc9f9785a95"
+        "md5": "0243997db1df929090d1f2ce847cfc72"
     },
     {
-        "path": "/media/posts/51/responsive/hero-3-sm.webp",
+        "path": "/media/posts/51/responsive/Elders-Under-Tree-sm.webp",
         "type": "file",
-        "md5": "9eeafdd60780a486709709a4d88f1524"
+        "md5": "d6ac317ce0b5a7e39616c4559d3c94f9"
     },
     {
-        "path": "/media/posts/51/responsive/hero-3-xl.webp",
+        "path": "/media/posts/51/responsive/Elders-Under-Tree-xl.webp",
         "type": "file",
-        "md5": "a1e743bfaf678c74bd38cdfc23ba361c"
+        "md5": "a1c29dc2f77f199357e126a3360385bb"
     },
     {
-        "path": "/media/posts/51/responsive/hero-3-xs.webp",
+        "path": "/media/posts/51/responsive/Elders-Under-Tree-xs.webp",
         "type": "file",
-        "md5": "f779d46f4e798f03f2252ae267de824d"
+        "md5": "c7233751659fcd9cfc51d50129858ac0"
     },
     {
         "path": "media/posts/52",
@@ -2610,44 +2510,44 @@
         "md5": false
     },
     {
-        "path": "/media/posts/52/hero-12.png",
-        "type": "file",
-        "md5": "9dc7c98120c33152af4650ae51c44ce7"
-    },
-    {
         "path": "media/posts/52/responsive",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/posts/52/responsive/hero-12-2xl.webp",
+        "path": "/media/posts/52/responsive/three-vessels-2xl.webp",
         "type": "file",
-        "md5": "8f353e82e7778630ba75c07ee5cf5fed"
+        "md5": "1ef3f26a61806a2a94ac1480e64a1fbe"
     },
     {
-        "path": "/media/posts/52/responsive/hero-12-lg.webp",
+        "path": "/media/posts/52/responsive/three-vessels-lg.webp",
         "type": "file",
-        "md5": "3694167e168d8d8ef9dbe7848a9bbec6"
+        "md5": "b0659e200a6b93432b02aea6f242ad6a"
     },
     {
-        "path": "/media/posts/52/responsive/hero-12-md.webp",
+        "path": "/media/posts/52/responsive/three-vessels-md.webp",
         "type": "file",
-        "md5": "c25f868aac5a1059f1fb9a80c82aae4b"
+        "md5": "59106d5f37544f2d077d15e3d15c7c2d"
     },
     {
-        "path": "/media/posts/52/responsive/hero-12-sm.webp",
+        "path": "/media/posts/52/responsive/three-vessels-sm.webp",
         "type": "file",
-        "md5": "fc257d220937aa3d9d3c7ebae483f73d"
+        "md5": "bf7875ecfbf342ace695a678bcaf9d16"
     },
     {
-        "path": "/media/posts/52/responsive/hero-12-xl.webp",
+        "path": "/media/posts/52/responsive/three-vessels-xl.webp",
         "type": "file",
-        "md5": "8473379de3aca09920c9029c728027b1"
+        "md5": "511e980d8b65d24b9988b445fba5e314"
     },
     {
-        "path": "/media/posts/52/responsive/hero-12-xs.webp",
+        "path": "/media/posts/52/responsive/three-vessels-xs.webp",
         "type": "file",
-        "md5": "7741f41daeada00ece2ec2651df8c6c9"
+        "md5": "b654621c19567275aefa392cf90b216a"
+    },
+    {
+        "path": "/media/posts/52/three-vessels.png",
+        "type": "file",
+        "md5": "a8193f935ed8904a5727834517917670"
     },
     {
         "path": "media/posts/53",
@@ -2655,44 +2555,44 @@
         "md5": false
     },
     {
-        "path": "/media/posts/53/hero-12.png",
-        "type": "file",
-        "md5": "9dc7c98120c33152af4650ae51c44ce7"
-    },
-    {
         "path": "media/posts/53/responsive",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/posts/53/responsive/hero-12-2xl.webp",
+        "path": "/media/posts/53/responsive/three-vessels-2xl.webp",
         "type": "file",
-        "md5": "8f353e82e7778630ba75c07ee5cf5fed"
+        "md5": "1ef3f26a61806a2a94ac1480e64a1fbe"
     },
     {
-        "path": "/media/posts/53/responsive/hero-12-lg.webp",
+        "path": "/media/posts/53/responsive/three-vessels-lg.webp",
         "type": "file",
-        "md5": "3694167e168d8d8ef9dbe7848a9bbec6"
+        "md5": "b0659e200a6b93432b02aea6f242ad6a"
     },
     {
-        "path": "/media/posts/53/responsive/hero-12-md.webp",
+        "path": "/media/posts/53/responsive/three-vessels-md.webp",
         "type": "file",
-        "md5": "c25f868aac5a1059f1fb9a80c82aae4b"
+        "md5": "59106d5f37544f2d077d15e3d15c7c2d"
     },
     {
-        "path": "/media/posts/53/responsive/hero-12-sm.webp",
+        "path": "/media/posts/53/responsive/three-vessels-sm.webp",
         "type": "file",
-        "md5": "fc257d220937aa3d9d3c7ebae483f73d"
+        "md5": "bf7875ecfbf342ace695a678bcaf9d16"
     },
     {
-        "path": "/media/posts/53/responsive/hero-12-xl.webp",
+        "path": "/media/posts/53/responsive/three-vessels-xl.webp",
         "type": "file",
-        "md5": "8473379de3aca09920c9029c728027b1"
+        "md5": "511e980d8b65d24b9988b445fba5e314"
     },
     {
-        "path": "/media/posts/53/responsive/hero-12-xs.webp",
+        "path": "/media/posts/53/responsive/three-vessels-xs.webp",
         "type": "file",
-        "md5": "7741f41daeada00ece2ec2651df8c6c9"
+        "md5": "b654621c19567275aefa392cf90b216a"
+    },
+    {
+        "path": "/media/posts/53/three-vessels.png",
+        "type": "file",
+        "md5": "a8193f935ed8904a5727834517917670"
     },
     {
         "path": "media/posts/54",
@@ -2700,9 +2600,9 @@
         "md5": false
     },
     {
-        "path": "/media/posts/54/hero-3.png",
+        "path": "/media/posts/54/Elders-Under-Tree.png",
         "type": "file",
-        "md5": "9dfde8614e9a2205acae27704e9aa64c"
+        "md5": "9cba63dff5956fda5ef50055c300e6ca"
     },
     {
         "path": "media/posts/54/responsive",
@@ -2710,34 +2610,34 @@
         "md5": false
     },
     {
-        "path": "/media/posts/54/responsive/hero-3-2xl.webp",
+        "path": "/media/posts/54/responsive/Elders-Under-Tree-2xl.webp",
         "type": "file",
-        "md5": "757a30bcf44253f5b9e94ccca66d539c"
+        "md5": "83257d7b7cf6d44f0e59c6255aeaa1b3"
     },
     {
-        "path": "/media/posts/54/responsive/hero-3-lg.webp",
+        "path": "/media/posts/54/responsive/Elders-Under-Tree-lg.webp",
         "type": "file",
-        "md5": "6807182da023df873cded68aa2dcba1a"
+        "md5": "5ace29ababf411f0be49d39aa8ef9ac9"
     },
     {
-        "path": "/media/posts/54/responsive/hero-3-md.webp",
+        "path": "/media/posts/54/responsive/Elders-Under-Tree-md.webp",
         "type": "file",
-        "md5": "9ff89130d71e1110bbdaefc9f9785a95"
+        "md5": "0243997db1df929090d1f2ce847cfc72"
     },
     {
-        "path": "/media/posts/54/responsive/hero-3-sm.webp",
+        "path": "/media/posts/54/responsive/Elders-Under-Tree-sm.webp",
         "type": "file",
-        "md5": "9eeafdd60780a486709709a4d88f1524"
+        "md5": "d6ac317ce0b5a7e39616c4559d3c94f9"
     },
     {
-        "path": "/media/posts/54/responsive/hero-3-xl.webp",
+        "path": "/media/posts/54/responsive/Elders-Under-Tree-xl.webp",
         "type": "file",
-        "md5": "a1e743bfaf678c74bd38cdfc23ba361c"
+        "md5": "a1c29dc2f77f199357e126a3360385bb"
     },
     {
-        "path": "/media/posts/54/responsive/hero-3-xs.webp",
+        "path": "/media/posts/54/responsive/Elders-Under-Tree-xs.webp",
         "type": "file",
-        "md5": "f779d46f4e798f03f2252ae267de824d"
+        "md5": "c7233751659fcd9cfc51d50129858ac0"
     },
     {
         "path": "media/posts/58",
@@ -2745,14 +2645,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/58/header-plant-foods.png",
-        "type": "file",
-        "md5": "61560c58ff26e84b952b5c4a467dbed3"
-    },
-    {
         "path": "/media/posts/58/Maasai-Elder.png",
         "type": "file",
         "md5": "c1c594da019616353009233d32c4a0fd"
+    },
+    {
+        "path": "/media/posts/58/Market-local-2.png",
+        "type": "file",
+        "md5": "468ee1601e7dbced42d0fc8500ec9f48"
     },
     {
         "path": "/media/posts/58/pH-strip.png",
@@ -2763,36 +2663,6 @@
         "path": "media/posts/58/responsive",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "/media/posts/58/responsive/header-plant-foods-2xl.webp",
-        "type": "file",
-        "md5": "dca7d2a23174fd6809d72c0e57d82cb3"
-    },
-    {
-        "path": "/media/posts/58/responsive/header-plant-foods-lg.webp",
-        "type": "file",
-        "md5": "5acb77a1e98a75eb569de90e87298e05"
-    },
-    {
-        "path": "/media/posts/58/responsive/header-plant-foods-md.webp",
-        "type": "file",
-        "md5": "53b571376333285a311284a241aa40c6"
-    },
-    {
-        "path": "/media/posts/58/responsive/header-plant-foods-sm.webp",
-        "type": "file",
-        "md5": "6d368805fce8510c3cc91889f9771edf"
-    },
-    {
-        "path": "/media/posts/58/responsive/header-plant-foods-xl.webp",
-        "type": "file",
-        "md5": "d9711667388d26fe6aac10371ad49fca"
-    },
-    {
-        "path": "/media/posts/58/responsive/header-plant-foods-xs.webp",
-        "type": "file",
-        "md5": "ceb554f9ef7617e352aa4e2a48c5500e"
     },
     {
         "path": "/media/posts/58/responsive/Maasai-Elder-2xl.webp",
@@ -2823,6 +2693,36 @@
         "path": "/media/posts/58/responsive/Maasai-Elder-xs.webp",
         "type": "file",
         "md5": "a40233fda47c0bc691e287ae83e11c66"
+    },
+    {
+        "path": "/media/posts/58/responsive/Market-local-2-2xl.webp",
+        "type": "file",
+        "md5": "115aad6b9d0dbc1e22a4633a45260772"
+    },
+    {
+        "path": "/media/posts/58/responsive/Market-local-2-lg.webp",
+        "type": "file",
+        "md5": "172f524f19cdd633bf810ae42335194d"
+    },
+    {
+        "path": "/media/posts/58/responsive/Market-local-2-md.webp",
+        "type": "file",
+        "md5": "507d8be68ef2c802fdc5e9c8e6b3a761"
+    },
+    {
+        "path": "/media/posts/58/responsive/Market-local-2-sm.webp",
+        "type": "file",
+        "md5": "f535aa701f3c5105c0782886a2d83aa1"
+    },
+    {
+        "path": "/media/posts/58/responsive/Market-local-2-xl.webp",
+        "type": "file",
+        "md5": "6358e8d9cf4cf25257b6e6974b1ac766"
+    },
+    {
+        "path": "/media/posts/58/responsive/Market-local-2-xs.webp",
+        "type": "file",
+        "md5": "730607fa29311025aaf2624816133991"
     },
     {
         "path": "/media/posts/58/responsive/pH-strip-2xl.webp",
@@ -2935,11 +2835,6 @@
         "md5": "9a159e8342621e89a2d39cdd58bac2b0"
     },
     {
-        "path": "/media/posts/6/plowing-tractor.png",
-        "type": "file",
-        "md5": "41a0f1e4f10086fab31de315e546f9a2"
-    },
-    {
         "path": "media/posts/6/responsive",
         "type": "directory",
         "md5": false
@@ -2975,34 +2870,34 @@
         "md5": "bf97209343ee2a892877f34366d6f22b"
     },
     {
-        "path": "/media/posts/6/responsive/plowing-tractor-2xl.webp",
+        "path": "/media/posts/6/responsive/Seated-introspecting-2xl.webp",
         "type": "file",
-        "md5": "64c5424df3ab5a674874cb0ee3c12a37"
+        "md5": "1a1057ae34fe0cee1c79739bd422252f"
     },
     {
-        "path": "/media/posts/6/responsive/plowing-tractor-lg.webp",
+        "path": "/media/posts/6/responsive/Seated-introspecting-lg.webp",
         "type": "file",
-        "md5": "b0ad554802a3d1f07de45c11b383ecb1"
+        "md5": "5d5c7928dd4501b2d5678278b3e03530"
     },
     {
-        "path": "/media/posts/6/responsive/plowing-tractor-md.webp",
+        "path": "/media/posts/6/responsive/Seated-introspecting-md.webp",
         "type": "file",
-        "md5": "381d3247224884147cdb23aeff4ff3a3"
+        "md5": "54a6f2564c1590bfe3c43318188f349e"
     },
     {
-        "path": "/media/posts/6/responsive/plowing-tractor-sm.webp",
+        "path": "/media/posts/6/responsive/Seated-introspecting-sm.webp",
         "type": "file",
-        "md5": "b068a3057d86df29d7da4a17618ef8a8"
+        "md5": "945093acf1ad7175aa6209e50c543cfc"
     },
     {
-        "path": "/media/posts/6/responsive/plowing-tractor-xl.webp",
+        "path": "/media/posts/6/responsive/Seated-introspecting-xl.webp",
         "type": "file",
-        "md5": "13761cb5c4a14ec48d9ed4fbd1b42894"
+        "md5": "6c80628ba3518b8bf1b94471f5b74f14"
     },
     {
-        "path": "/media/posts/6/responsive/plowing-tractor-xs.webp",
+        "path": "/media/posts/6/responsive/Seated-introspecting-xs.webp",
         "type": "file",
-        "md5": "da73b1cdb3b0fc2be9f993e0935abff4"
+        "md5": "687f34ea02abcccd22b685c43851d4ff"
     },
     {
         "path": "/media/posts/6/responsive/sequence-2xl.webp",
@@ -3033,6 +2928,11 @@
         "path": "/media/posts/6/responsive/sequence-xs.webp",
         "type": "file",
         "md5": "c3fc46efe98f684f70d3a1135f9ab992"
+    },
+    {
+        "path": "/media/posts/6/Seated-introspecting.png",
+        "type": "file",
+        "md5": "07bbd42f92f7ae6e35242ce48c34a7ce"
     },
     {
         "path": "/media/posts/6/sequence.png",
@@ -3505,19 +3405,14 @@
         "md5": false
     },
     {
-        "path": "/media/posts/65/Dr.-Chen-Hands.png",
-        "type": "file",
-        "md5": "4926dacec85bbba2c5cbdd674c7a7ae7"
-    },
-    {
         "path": "/media/posts/65/Dr.-Chen.png",
         "type": "file",
         "md5": "8e06cae1e90d4287a47f6c137d19b79e"
     },
     {
-        "path": "/media/posts/65/Magadi-Image-Hero.png",
+        "path": "/media/posts/65/hands-salt.png",
         "type": "file",
-        "md5": "884b349edd0dad26771c9bb69569c6d7"
+        "md5": "2e5115206f262a7718d04f3fc6620603"
     },
     {
         "path": "media/posts/65/responsive",
@@ -3528,36 +3423,6 @@
         "path": "/media/posts/65/responsive/Dr.-Chen-2xl.webp",
         "type": "file",
         "md5": "729ce39ce0a6b056961e33a52055f216"
-    },
-    {
-        "path": "/media/posts/65/responsive/Dr.-Chen-Hands-2xl.webp",
-        "type": "file",
-        "md5": "be3fd2a5aeb2a00a338b382814d5a116"
-    },
-    {
-        "path": "/media/posts/65/responsive/Dr.-Chen-Hands-lg.webp",
-        "type": "file",
-        "md5": "9bea08e32971ec042da8d3e15da5c74d"
-    },
-    {
-        "path": "/media/posts/65/responsive/Dr.-Chen-Hands-md.webp",
-        "type": "file",
-        "md5": "5167b944c8a390815bf13c60ce79c06d"
-    },
-    {
-        "path": "/media/posts/65/responsive/Dr.-Chen-Hands-sm.webp",
-        "type": "file",
-        "md5": "45953dd24b07902dd32891f5b3523307"
-    },
-    {
-        "path": "/media/posts/65/responsive/Dr.-Chen-Hands-xl.webp",
-        "type": "file",
-        "md5": "bffaa877cb13e748f5b003b0292077fd"
-    },
-    {
-        "path": "/media/posts/65/responsive/Dr.-Chen-Hands-xs.webp",
-        "type": "file",
-        "md5": "acbd884ac2e67ed73fe9c95ecc03b8b7"
     },
     {
         "path": "/media/posts/65/responsive/Dr.-Chen-lg.webp",
@@ -3585,34 +3450,69 @@
         "md5": "f7ed622c3502ffeab001984ea1b6d75e"
     },
     {
-        "path": "/media/posts/65/responsive/Magadi-Image-Hero-2xl.webp",
+        "path": "/media/posts/65/responsive/hands-salt-2xl.webp",
         "type": "file",
-        "md5": "22de48b7496dd6c76665b82519dd6abb"
+        "md5": "369a211b84b8e10a42cb8d968220255b"
     },
     {
-        "path": "/media/posts/65/responsive/Magadi-Image-Hero-lg.webp",
+        "path": "/media/posts/65/responsive/hands-salt-lg.webp",
         "type": "file",
-        "md5": "e431a321aac0f6df013889755ecc4d51"
+        "md5": "13b14df6e02c622e69dc7444d6bab3cf"
     },
     {
-        "path": "/media/posts/65/responsive/Magadi-Image-Hero-md.webp",
+        "path": "/media/posts/65/responsive/hands-salt-md.webp",
         "type": "file",
-        "md5": "5f78632c49ab5462fe2196f26c3c3730"
+        "md5": "15d686be612374bad09945d702748f22"
     },
     {
-        "path": "/media/posts/65/responsive/Magadi-Image-Hero-sm.webp",
+        "path": "/media/posts/65/responsive/hands-salt-sm.webp",
         "type": "file",
-        "md5": "c18ca301a0787acbb17510f5640fc489"
+        "md5": "eb08eb122804991bd96ef32ba36e3147"
     },
     {
-        "path": "/media/posts/65/responsive/Magadi-Image-Hero-xl.webp",
+        "path": "/media/posts/65/responsive/hands-salt-xl.webp",
         "type": "file",
-        "md5": "92e7e48d5be849022fa21d5a259189dc"
+        "md5": "637739f1297dbd04af5529b4a434fd4f"
     },
     {
-        "path": "/media/posts/65/responsive/Magadi-Image-Hero-xs.webp",
+        "path": "/media/posts/65/responsive/hands-salt-xs.webp",
         "type": "file",
-        "md5": "31e16218ec57b846d93d165833b33970"
+        "md5": "83ec2feaf03b68c3d39af18e56eb1a57"
+    },
+    {
+        "path": "/media/posts/65/responsive/Sarah-and-Mouryn-2xl.webp",
+        "type": "file",
+        "md5": "b8ea395d2a877cf7f5a7c17d5a36c2f7"
+    },
+    {
+        "path": "/media/posts/65/responsive/Sarah-and-Mouryn-lg.webp",
+        "type": "file",
+        "md5": "5a92e163f7720c367fe200616eeeba8a"
+    },
+    {
+        "path": "/media/posts/65/responsive/Sarah-and-Mouryn-md.webp",
+        "type": "file",
+        "md5": "fde15c92d924d4467450098644cf6548"
+    },
+    {
+        "path": "/media/posts/65/responsive/Sarah-and-Mouryn-sm.webp",
+        "type": "file",
+        "md5": "ce4be4e36b81c2af765b507a959d09a9"
+    },
+    {
+        "path": "/media/posts/65/responsive/Sarah-and-Mouryn-xl.webp",
+        "type": "file",
+        "md5": "534c3be979f6e2e30bd194dc43c33e52"
+    },
+    {
+        "path": "/media/posts/65/responsive/Sarah-and-Mouryn-xs.webp",
+        "type": "file",
+        "md5": "d6815a20aed451eab580b2447cb1fc45"
+    },
+    {
+        "path": "/media/posts/65/Sarah-and-Mouryn.png",
+        "type": "file",
+        "md5": "aa58f210c891a819dc618e2ae4dfd774"
     },
     {
         "path": "media/posts/66",
@@ -3625,14 +3525,14 @@
         "md5": "25754c5d5248a8ce64fc23fc95c458f8"
     },
     {
+        "path": "/media/posts/66/Dr.-Chen-Baleni-Springs.png",
+        "type": "file",
+        "md5": "1e538f0d9966ff5cddd4418e68193510"
+    },
+    {
         "path": "/media/posts/66/Dr.-Chen-taking-notes.png",
         "type": "file",
         "md5": "8e2165e285789d6f681e9b41f673ba6c"
-    },
-    {
-        "path": "/media/posts/66/L.-Victoria-Mouryn-and-Dr.-Chen.png",
-        "type": "file",
-        "md5": "f488e9424ecb337bd278c37b2de4fd08"
     },
     {
         "path": "media/posts/66/responsive",
@@ -3670,6 +3570,36 @@
         "md5": "643ef7329b139f860bdbe96200f3b816"
     },
     {
+        "path": "/media/posts/66/responsive/Dr.-Chen-Baleni-Springs-2xl.webp",
+        "type": "file",
+        "md5": "cd7978f14564d9c78ee37e87ea58752a"
+    },
+    {
+        "path": "/media/posts/66/responsive/Dr.-Chen-Baleni-Springs-lg.webp",
+        "type": "file",
+        "md5": "833875fc0df364e23d54648c9cc26ff1"
+    },
+    {
+        "path": "/media/posts/66/responsive/Dr.-Chen-Baleni-Springs-md.webp",
+        "type": "file",
+        "md5": "5e0dc545457519e035b8f7eac02f3a87"
+    },
+    {
+        "path": "/media/posts/66/responsive/Dr.-Chen-Baleni-Springs-sm.webp",
+        "type": "file",
+        "md5": "e7f3c0edeb1144bdc8fdc65a78b99127"
+    },
+    {
+        "path": "/media/posts/66/responsive/Dr.-Chen-Baleni-Springs-xl.webp",
+        "type": "file",
+        "md5": "298d04e749686bebaf3980a23bcad2e3"
+    },
+    {
+        "path": "/media/posts/66/responsive/Dr.-Chen-Baleni-Springs-xs.webp",
+        "type": "file",
+        "md5": "3461cd5f01211f35596dafd33284e2e9"
+    },
+    {
         "path": "/media/posts/66/responsive/Dr.-Chen-taking-notes-2xl.webp",
         "type": "file",
         "md5": "1e8bd02ad4809fc2d06f2ce3fd5b202d"
@@ -3700,89 +3630,9 @@
         "md5": "e3d2b14cda5e6b82d3858dc67e2b7f6c"
     },
     {
-        "path": "/media/posts/66/responsive/L.-Victoria-Mouryn-and-Dr.-Chen-2xl.webp",
-        "type": "file",
-        "md5": "4adcc08a4e2da8a1a71d05391ad113f6"
-    },
-    {
-        "path": "/media/posts/66/responsive/L.-Victoria-Mouryn-and-Dr.-Chen-lg.webp",
-        "type": "file",
-        "md5": "49304c590bb11f8278fac54d88f915dd"
-    },
-    {
-        "path": "/media/posts/66/responsive/L.-Victoria-Mouryn-and-Dr.-Chen-md.webp",
-        "type": "file",
-        "md5": "e387d6be56221b59300624938b39450d"
-    },
-    {
-        "path": "/media/posts/66/responsive/L.-Victoria-Mouryn-and-Dr.-Chen-sm.webp",
-        "type": "file",
-        "md5": "9803a00529b4b73838b5d46920663d14"
-    },
-    {
-        "path": "/media/posts/66/responsive/L.-Victoria-Mouryn-and-Dr.-Chen-xl.webp",
-        "type": "file",
-        "md5": "740ca17718a06436f32ce904fc8f792e"
-    },
-    {
-        "path": "/media/posts/66/responsive/L.-Victoria-Mouryn-and-Dr.-Chen-xs.webp",
-        "type": "file",
-        "md5": "9aafee9e910ecfe790e5ce054e7addaf"
-    },
-    {
-        "path": "media/posts/69",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/69/Join-Us-Hero.png",
-        "type": "file",
-        "md5": "6a8e16ed54ef0136735a64a777dacb94"
-    },
-    {
-        "path": "media/posts/69/responsive",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/media/posts/69/responsive/Join-Us-Hero-2xl.webp",
-        "type": "file",
-        "md5": "280f4abc1eb21a01cfed65f83673c467"
-    },
-    {
-        "path": "/media/posts/69/responsive/Join-Us-Hero-lg.webp",
-        "type": "file",
-        "md5": "29639d35f724e424357a7f3504f99a33"
-    },
-    {
-        "path": "/media/posts/69/responsive/Join-Us-Hero-md.webp",
-        "type": "file",
-        "md5": "d25e5635dcbf704fb47bb458e83e9345"
-    },
-    {
-        "path": "/media/posts/69/responsive/Join-Us-Hero-sm.webp",
-        "type": "file",
-        "md5": "72a2878840119144c8392373f3c0adaf"
-    },
-    {
-        "path": "/media/posts/69/responsive/Join-Us-Hero-xl.webp",
-        "type": "file",
-        "md5": "e309b1dc374add171e8affbe5a5797ab"
-    },
-    {
-        "path": "/media/posts/69/responsive/Join-Us-Hero-xs.webp",
-        "type": "file",
-        "md5": "f4315753233c100bb5fa350fedac8698"
-    },
-    {
         "path": "media/posts/7",
         "type": "directory",
         "md5": false
-    },
-    {
-        "path": "/media/posts/7/hero-4.png",
-        "type": "file",
-        "md5": "3fb297b27217be2066eeca6e687ee561"
     },
     {
         "path": "media/posts/7/responsive",
@@ -3790,34 +3640,39 @@
         "md5": false
     },
     {
-        "path": "/media/posts/7/responsive/hero-4-2xl.webp",
+        "path": "/media/posts/7/responsive/Testimonials-2xl.webp",
         "type": "file",
-        "md5": "3dd21d1c4163d62bade94c44f6a21173"
+        "md5": "c2187aa2d3ba04c3bb4734f4c0fb3b6c"
     },
     {
-        "path": "/media/posts/7/responsive/hero-4-lg.webp",
+        "path": "/media/posts/7/responsive/Testimonials-lg.webp",
         "type": "file",
-        "md5": "0c860a948ff51b3a19ba1a9c733c17df"
+        "md5": "26a6e117f5bce5c79a7f883efad2e6f7"
     },
     {
-        "path": "/media/posts/7/responsive/hero-4-md.webp",
+        "path": "/media/posts/7/responsive/Testimonials-md.webp",
         "type": "file",
-        "md5": "e8261c5c5cea9aa070577a94a19f15d3"
+        "md5": "b13e266189b2f7f61f36e8e2fa56ef0f"
     },
     {
-        "path": "/media/posts/7/responsive/hero-4-sm.webp",
+        "path": "/media/posts/7/responsive/Testimonials-sm.webp",
         "type": "file",
-        "md5": "dde6a4fdebda3e91e8d0ac734b8ae18b"
+        "md5": "d184e9398309c2b2dc2bbd65fb108fc7"
     },
     {
-        "path": "/media/posts/7/responsive/hero-4-xl.webp",
+        "path": "/media/posts/7/responsive/Testimonials-xl.webp",
         "type": "file",
-        "md5": "fff6c2728cb32d481c27c5e72bd2e032"
+        "md5": "89f34cb9a6a43bdf4457d6b804d7e22b"
     },
     {
-        "path": "/media/posts/7/responsive/hero-4-xs.webp",
+        "path": "/media/posts/7/responsive/Testimonials-xs.webp",
         "type": "file",
-        "md5": "65a07dce385fc11a2aca78174da0709c"
+        "md5": "1631c14ec19cc9756ce7d860a8840a06"
+    },
+    {
+        "path": "/media/posts/7/Testimonials.png",
+        "type": "file",
+        "md5": "b5983507673ca7a0e0c15f969369a43b"
     },
     {
         "path": "media/posts/9",
@@ -3825,44 +3680,44 @@
         "md5": false
     },
     {
-        "path": "/media/posts/9/hero-22.png",
-        "type": "file",
-        "md5": "761ec7da850c6b6e75c4341127fc0eb7"
-    },
-    {
         "path": "media/posts/9/responsive",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/media/posts/9/responsive/hero-22-2xl.webp",
+        "path": "/media/posts/9/responsive/water-2xl.webp",
         "type": "file",
-        "md5": "69143c3ff27966f9005499c8f7d117c4"
+        "md5": "cc1ccf331f727beb48bbbc79cbf3d597"
     },
     {
-        "path": "/media/posts/9/responsive/hero-22-lg.webp",
+        "path": "/media/posts/9/responsive/water-lg.webp",
         "type": "file",
-        "md5": "3f83327da80dfbaf3073ae3ff71ddaf5"
+        "md5": "bf63926d1c482fe781a32a2f27558d37"
     },
     {
-        "path": "/media/posts/9/responsive/hero-22-md.webp",
+        "path": "/media/posts/9/responsive/water-md.webp",
         "type": "file",
-        "md5": "0c5a176329d942c8aa674dc6cce028eb"
+        "md5": "6f2d5539fef72c773a8bf63f55074f5f"
     },
     {
-        "path": "/media/posts/9/responsive/hero-22-sm.webp",
+        "path": "/media/posts/9/responsive/water-sm.webp",
         "type": "file",
-        "md5": "63b7e359d32225b4a1f9acb94a18c813"
+        "md5": "adad783d8a4f7b8201b594e6ed577ab3"
     },
     {
-        "path": "/media/posts/9/responsive/hero-22-xl.webp",
+        "path": "/media/posts/9/responsive/water-xl.webp",
         "type": "file",
-        "md5": "3248dcaecd096cd06937e4a0220fd631"
+        "md5": "17fc6839c5db1c281fadca54f60c3fd9"
     },
     {
-        "path": "/media/posts/9/responsive/hero-22-xs.webp",
+        "path": "/media/posts/9/responsive/water-xs.webp",
         "type": "file",
-        "md5": "9e10a7857a8b3a1d97a4e0906d5b40ef"
+        "md5": "f7b5e3c15cc3c863f608c452c91349f5"
+    },
+    {
+        "path": "/media/posts/9/water.png",
+        "type": "file",
+        "md5": "1d962c00cfc1ce410858606cf2253423"
     },
     {
         "path": "media/website",
@@ -3870,14 +3725,14 @@
         "md5": false
     },
     {
+        "path": "/media/website/Elder.png",
+        "type": "file",
+        "md5": "0095abb9990bb704e5c4ca5cb8dbf1a0"
+    },
+    {
         "path": "/media/website/favicon.png",
         "type": "file",
         "md5": "3261c9f32e2a8491bf0d43ca4164493a"
-    },
-    {
-        "path": "/media/website/header-hero-2.png",
-        "type": "file",
-        "md5": "d7b167612e0351f32d46c17bc2a4e09b"
     },
     {
         "path": "/media/website/Logo-2.png",
@@ -3888,6 +3743,36 @@
         "path": "media/website/responsive",
         "type": "directory",
         "md5": false
+    },
+    {
+        "path": "/media/website/responsive/Elder-2xl.webp",
+        "type": "file",
+        "md5": "493eeebc3d61a1ad5252143f8d9f0eed"
+    },
+    {
+        "path": "/media/website/responsive/Elder-lg.webp",
+        "type": "file",
+        "md5": "2ad294d66e27c6415157f4752489a975"
+    },
+    {
+        "path": "/media/website/responsive/Elder-md.webp",
+        "type": "file",
+        "md5": "79cfda2075fa8c57102fe123907417fc"
+    },
+    {
+        "path": "/media/website/responsive/Elder-sm.webp",
+        "type": "file",
+        "md5": "8e1b2797ea3c11208546fe25b8d90b39"
+    },
+    {
+        "path": "/media/website/responsive/Elder-xl.webp",
+        "type": "file",
+        "md5": "d698281a11da6bebaf4741db25038b98"
+    },
+    {
+        "path": "/media/website/responsive/Elder-xs.webp",
+        "type": "file",
+        "md5": "a1ab061583d76a6671ac9bff240d0f55"
     },
     {
         "path": "/media/website/responsive/favicon-2xl.webp",
@@ -3918,36 +3803,6 @@
         "path": "/media/website/responsive/favicon-xs.webp",
         "type": "file",
         "md5": "49c72042e2099e6b2eeef8e274ae792c"
-    },
-    {
-        "path": "/media/website/responsive/header-hero-2-2xl.webp",
-        "type": "file",
-        "md5": "fe5d697900cda70cb3d9cfd701b6c6c5"
-    },
-    {
-        "path": "/media/website/responsive/header-hero-2-lg.webp",
-        "type": "file",
-        "md5": "0b957926c17fd83cf785ce4d42ca4e24"
-    },
-    {
-        "path": "/media/website/responsive/header-hero-2-md.webp",
-        "type": "file",
-        "md5": "bf542ecb7a6bc8b78185771648001710"
-    },
-    {
-        "path": "/media/website/responsive/header-hero-2-sm.webp",
-        "type": "file",
-        "md5": "115d62d333be10e940f1f1f2ca708a46"
-    },
-    {
-        "path": "/media/website/responsive/header-hero-2-xl.webp",
-        "type": "file",
-        "md5": "1814c1bf6839b7426daa2dbc6e87d14e"
-    },
-    {
-        "path": "/media/website/responsive/header-hero-2-xs.webp",
-        "type": "file",
-        "md5": "640ea8f2d96d364d06d5b6ccf4b3b224"
     },
     {
         "path": "/media/website/responsive/Logo-2-2xl.webp",
@@ -4022,57 +3877,7 @@
     {
         "path": "/medical-disclaimer/index.html",
         "type": "file",
-        "md5": "7dc1fca693bad178d89dd694a783d3f3"
-    },
-    {
-        "path": "medical-supervision-and-insurance",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/medical-supervision-and-insurance/index.html",
-        "type": "file",
-        "md5": "031870c1ad3273b9d4f0063c7e7ebd7d"
-    },
-    {
-        "path": "mineral-rotation-logic",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/mineral-rotation-logic/index.html",
-        "type": "file",
-        "md5": "f7367188b7a2fd51820d36c09a9610bc"
-    },
-    {
-        "path": "our-commitment-to-safety",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/our-commitment-to-safety/index.html",
-        "type": "file",
-        "md5": "e70c8b12fc2b0372bbbf45904dc81314"
-    },
-    {
-        "path": "our-philosophy",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/our-philosophy/index.html",
-        "type": "file",
-        "md5": "3a5db63474991ce4a66411d912655a80"
-    },
-    {
-        "path": "our-team",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/our-team/index.html",
-        "type": "file",
-        "md5": "a96c395e3e3ed977bcbc9aae968a6b43"
+        "md5": "bbefca0959504eaaf4c7834ba8889f04"
     },
     {
         "path": "page",
@@ -4087,7 +3892,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "58c999882917d6295f17c441a189dcba"
+        "md5": "64fd52c12d8ec98c36ab831de3648d59"
     },
     {
         "path": "plant-ash-salt",
@@ -4097,7 +3902,7 @@
     {
         "path": "/plant-ash-salt/index.html",
         "type": "file",
-        "md5": "fe7e1c2fc870114056be70b1bd9183fa"
+        "md5": "d334959ae16e77a2851c8f639f3575ae"
     },
     {
         "path": "privacy-policy",
@@ -4107,27 +3912,7 @@
     {
         "path": "/privacy-policy/index.html",
         "type": "file",
-        "md5": "01484b97864a7ee10caeabb20c7e5f69"
-    },
-    {
-        "path": "progress-tracking-templates",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/progress-tracking-templates/index.html",
-        "type": "file",
-        "md5": "a737c2c4ebd9c8d34103243d946c6638"
-    },
-    {
-        "path": "response-to-dr-mercy-atieno",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/response-to-dr-mercy-atieno/index.html",
-        "type": "file",
-        "md5": "3c52d5c43393ea011a556f2a3c63032a"
+        "md5": "1e078471a180cab70d4442ff72c48c3d"
     },
     {
         "path": "restore-your-internal-garden-reclaim-your-health",
@@ -4135,19 +3920,59 @@
         "md5": false
     },
     {
-        "path": "/restore-your-internal-garden-reclaim-your-health/index.html",
-        "type": "file",
-        "md5": "2320a767d48c30c29c65cdc9a5741ecc"
-    },
-    {
-        "path": "reversal-vs-cure",
+        "path": "restore-your-internal-garden-reclaim-your-health/basic-vs-rotational-which-path-is-right-for-you",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/reversal-vs-cure/index.html",
+        "path": "/restore-your-internal-garden-reclaim-your-health/basic-vs-rotational-which-path-is-right-for-you/index.html",
         "type": "file",
-        "md5": "61e7df2c268d6eeca6ec4f7e8cc9fb2e"
+        "md5": "29d36e218ec1b680d2fa312078864ca9"
+    },
+    {
+        "path": "restore-your-internal-garden-reclaim-your-health/broth-sourcing-guide",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/restore-your-internal-garden-reclaim-your-health/broth-sourcing-guide/index.html",
+        "type": "file",
+        "md5": "9fa2cd4ea12363edd8d5f419943995d7"
+    },
+    {
+        "path": "restore-your-internal-garden-reclaim-your-health/food-interference-list",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/restore-your-internal-garden-reclaim-your-health/food-interference-list/index.html",
+        "type": "file",
+        "md5": "c89795b280cb9883eda2e07fe7a9a644"
+    },
+    {
+        "path": "restore-your-internal-garden-reclaim-your-health/glossary-of-terms",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/restore-your-internal-garden-reclaim-your-health/glossary-of-terms/index.html",
+        "type": "file",
+        "md5": "8585eb50461a2eb30718cae0ecb3b2ee"
+    },
+    {
+        "path": "/restore-your-internal-garden-reclaim-your-health/index.html",
+        "type": "file",
+        "md5": "ff942b750413a63636d740ce58df93a1"
+    },
+    {
+        "path": "restore-your-internal-garden-reclaim-your-health/progress-tracking-templates",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/restore-your-internal-garden-reclaim-your-health/progress-tracking-templates/index.html",
+        "type": "file",
+        "md5": "20a936b1f79cf3b6e8d503ffb5bfc41f"
     },
     {
         "path": "rift-valley-alkaline-salt",
@@ -4157,7 +3982,7 @@
     {
         "path": "/rift-valley-alkaline-salt/index.html",
         "type": "file",
-        "md5": "d77d71ffe79d97a319a35f031e58df04"
+        "md5": "433cc9e314eb5703fe2abcd91b410e5d"
     },
     {
         "path": "robots.txt",
@@ -4172,7 +3997,7 @@
     {
         "path": "/salt-rotation-how-alternating-minerals-deepens-terrain-restoration/index.html",
         "type": "file",
-        "md5": "0abea49e770fe96117eee08e4144906c"
+        "md5": "f374b84de4096bfa789366b1dcbd35f5"
     },
     {
         "path": "science-meets-tradition-terra-partners-with-the-university-of-guelph-to-analyze-africas-traditional-salts",
@@ -4182,12 +4007,12 @@
     {
         "path": "/science-meets-tradition-terra-partners-with-the-university-of-guelph-to-analyze-africas-traditional-salts/index.html",
         "type": "file",
-        "md5": "981c412a00583b8b0da6614f09c4f17c"
+        "md5": "d15e62940eb7263cfae2491cf984fb24"
     },
     {
         "path": "search.html",
         "type": "file",
-        "md5": "b932e610d5d1837268c99ac63eb93021"
+        "md5": "d532de2dd799dc145ea8b32b14e27d7a"
     },
     {
         "path": "sequence-is-everything-why-the-order-of-interventions-matters",
@@ -4197,27 +4022,17 @@
     {
         "path": "/sequence-is-everything-why-the-order-of-interventions-matters/index.html",
         "type": "file",
-        "md5": "d079e6df331413b17815f85a76f37c79"
+        "md5": "105d68ca30d1dadff509984d534b9178"
     },
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "178711af320bcf19930a7435b667484f"
+        "md5": "af036a85630593f0d6ed7a981b2c0795"
     },
     {
         "path": "sitemap.xsl",
         "type": "file",
         "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
-    },
-    {
-        "path": "synergy-of-phases",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/synergy-of-phases/index.html",
-        "type": "file",
-        "md5": "dea56a0e1c79c7dd49f73e9537885aeb"
     },
     {
         "path": "tags",
@@ -4227,7 +4042,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "b2bd6cfb778c9b7b35082f9cbf66b9cd"
+        "md5": "557f761f61608aeb6da597f5c7093392"
     },
     {
         "path": "terms-of-use",
@@ -4237,7 +4052,7 @@
     {
         "path": "/terms-of-use/index.html",
         "type": "file",
-        "md5": "103376237bf166346cb59ac0bae6ce22"
+        "md5": "5b85ee89c9ad16ccbfa5ffda35027cc8"
     },
     {
         "path": "thank-you-2",
@@ -4247,7 +4062,7 @@
     {
         "path": "/thank-you-2/index.html",
         "type": "file",
-        "md5": "4cc123ddffae262e456444200c272cb2"
+        "md5": "7ec8bfe44a240dedeafbc1daf43faaef"
     },
     {
         "path": "the-alkaline-diet-delusion-why-selling-vegetables-as-medicine-misses-the-point",
@@ -4257,37 +4072,7 @@
     {
         "path": "/the-alkaline-diet-delusion-why-selling-vegetables-as-medicine-misses-the-point/index.html",
         "type": "file",
-        "md5": "726f62f5ec6cd1e2e4fc829c59018ffb"
-    },
-    {
-        "path": "the-communities-we-learn-from",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/the-communities-we-learn-from/index.html",
-        "type": "file",
-        "md5": "c95c4c9edd486f0a353aff28c9c36c73"
-    },
-    {
-        "path": "the-patient-who-became-his-own-researcher",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/the-patient-who-became-his-own-researcher/index.html",
-        "type": "file",
-        "md5": "aae9c191699f3a13e02f71a9ccee38a2"
-    },
-    {
-        "path": "the-role-of-autophagy",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/the-role-of-autophagy/index.html",
-        "type": "file",
-        "md5": "83c1f76ae161b7c510d3b63b4afcb699"
+        "md5": "abe45e1a2945ee7f9dd1c78b07d88d8a"
     },
     {
         "path": "the-terrain-repair-method",
@@ -4297,7 +4082,57 @@
     {
         "path": "/the-terrain-repair-method/index.html",
         "type": "file",
-        "md5": "e74c41c46ee0fbd4c1c93d888db82210"
+        "md5": "fc0165ce3042b829c87732711886c02e"
+    },
+    {
+        "path": "the-terrain-repair-method/our-commitment-to-safety",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-terrain-repair-method/our-commitment-to-safety/index.html",
+        "type": "file",
+        "md5": "2f857faae516cd5725a0c724db765122"
+    },
+    {
+        "path": "the-terrain-repair-method/our-philosophy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-terrain-repair-method/our-philosophy/index.html",
+        "type": "file",
+        "md5": "10e0e6acbc7dee22d0d56512f8c39fa4"
+    },
+    {
+        "path": "the-terrain-repair-method/our-team",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-terrain-repair-method/our-team/index.html",
+        "type": "file",
+        "md5": "31db343e0febfaf441ec5428378fa7da"
+    },
+    {
+        "path": "the-terrain-repair-method/the-communities-we-learn-from",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-terrain-repair-method/the-communities-we-learn-from/index.html",
+        "type": "file",
+        "md5": "6e735a6fac135b080c6123ead5dcbb36"
+    },
+    {
+        "path": "the-terrain-repair-method/the-patient-who-became-his-own-researcher",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-terrain-repair-method/the-patient-who-became-his-own-researcher/index.html",
+        "type": "file",
+        "md5": "02ef28473ced7195c8bbbdeae0e248d5"
     },
     {
         "path": "the-three-phase-sequence",
@@ -4305,29 +4140,69 @@
         "md5": false
     },
     {
+        "path": "the-three-phase-sequence/broth-as-medicine",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-three-phase-sequence/broth-as-medicine/index.html",
+        "type": "file",
+        "md5": "cc109ff9c2c4dc61e14ec327c6147e11"
+    },
+    {
         "path": "/the-three-phase-sequence/index.html",
         "type": "file",
-        "md5": "f8d077f2e1bef324a92530a7552b0948"
+        "md5": "8c3a3f11fe73434b436872b1a7961744"
     },
     {
-        "path": "the-two-hour-wait",
+        "path": "the-three-phase-sequence/mineral-rotation-logic",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/the-two-hour-wait/index.html",
+        "path": "/the-three-phase-sequence/mineral-rotation-logic/index.html",
         "type": "file",
-        "md5": "38cb445e0ac6d645e53e2a5a78ed897c"
+        "md5": "2fa178c9ed1f7c2f1537ec56fd282307"
     },
     {
-        "path": "tradition-vs-science",
+        "path": "the-three-phase-sequence/synergy-of-phases",
         "type": "directory",
         "md5": false
     },
     {
-        "path": "/tradition-vs-science/index.html",
+        "path": "/the-three-phase-sequence/synergy-of-phases/index.html",
         "type": "file",
-        "md5": "224b2868ac9e9f6b33af6a786ee6100e"
+        "md5": "bb29fac99057d884fde4d24dcc3f2591"
+    },
+    {
+        "path": "the-three-phase-sequence/the-role-of-autophagy",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-three-phase-sequence/the-role-of-autophagy/index.html",
+        "type": "file",
+        "md5": "912f6a2e6117b4e0aeaafe06f9210d40"
+    },
+    {
+        "path": "the-three-phase-sequence/the-two-hour-wait",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-three-phase-sequence/the-two-hour-wait/index.html",
+        "type": "file",
+        "md5": "88c11196d03b1ab83f76ed90ab880bcf"
+    },
+    {
+        "path": "the-three-phase-sequence/why-short-fasts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/the-three-phase-sequence/why-short-fasts/index.html",
+        "type": "file",
+        "md5": "b6883212dd117c325b78fe3ac01e6912"
     },
     {
         "path": "volunteer-opportunity-case-study-writer",
@@ -4337,7 +4212,7 @@
     {
         "path": "/volunteer-opportunity-case-study-writer/index.html",
         "type": "file",
-        "md5": "d3265a8f22ae29cfbe5ec87ae3218396"
+        "md5": "b835dc498ee55bbe10d77a51d9d5525d"
     },
     {
         "path": "volunteer-opportunity-literature-review-assistant",
@@ -4347,7 +4222,7 @@
     {
         "path": "/volunteer-opportunity-literature-review-assistant/index.html",
         "type": "file",
-        "md5": "5c27b66be1891d5fe1c57e781e098b80"
+        "md5": "918e35d0c8191e3f1d92cc60ba71713b"
     },
     {
         "path": "what-mineral-rotation-achieves",
@@ -4357,16 +4232,6 @@
     {
         "path": "/what-mineral-rotation-achieves/index.html",
         "type": "file",
-        "md5": "ee6bba1ee2285c2b34d51a17173fa1ad"
-    },
-    {
-        "path": "why-short-fasts",
-        "type": "directory",
-        "md5": false
-    },
-    {
-        "path": "/why-short-fasts/index.html",
-        "type": "file",
-        "md5": "63ebcb9b3ae99e5a3c024b1251ad3928"
+        "md5": "4dc591caeea2b8b3af7a2a96cad4dd7a"
     }
 ]
