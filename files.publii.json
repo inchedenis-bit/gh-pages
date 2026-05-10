@@ -1335,36 +1335,6 @@
         "md5": false
     },
     {
-        "path": "/media/posts/28/responsive/Rift-Valley-Inland-Alkaline-Salt-2xl.webp",
-        "type": "file",
-        "md5": "5fd25e86ca81d78a9b69e897c5cd5099"
-    },
-    {
-        "path": "/media/posts/28/responsive/Rift-Valley-Inland-Alkaline-Salt-lg.webp",
-        "type": "file",
-        "md5": "207461ac3cc2cf308f0525f518faf74b"
-    },
-    {
-        "path": "/media/posts/28/responsive/Rift-Valley-Inland-Alkaline-Salt-md.webp",
-        "type": "file",
-        "md5": "e8b87628d211c04bd101e7480ac64f8d"
-    },
-    {
-        "path": "/media/posts/28/responsive/Rift-Valley-Inland-Alkaline-Salt-sm.webp",
-        "type": "file",
-        "md5": "22a7d63c6afc8fe8daabfc0d6f1450bb"
-    },
-    {
-        "path": "/media/posts/28/responsive/Rift-Valley-Inland-Alkaline-Salt-xl.webp",
-        "type": "file",
-        "md5": "e708e26331938736cd62a4059e69c000"
-    },
-    {
-        "path": "/media/posts/28/responsive/Rift-Valley-Inland-Alkaline-Salt-xs.webp",
-        "type": "file",
-        "md5": "b0858032e4c4d69ca827952db2631493"
-    },
-    {
         "path": "/media/posts/28/responsive/Rift-Valley-Salt-Header-2xl.webp",
         "type": "file",
         "md5": "dbd0b2cd61007a97346fb9405b6d96d2"
@@ -1393,11 +1363,6 @@
         "path": "/media/posts/28/responsive/Rift-Valley-Salt-Header-xs.webp",
         "type": "file",
         "md5": "e1cf10bfd0817f9629213375f95bd884"
-    },
-    {
-        "path": "/media/posts/28/Rift-Valley-Inland-Alkaline-Salt.png",
-        "type": "file",
-        "md5": "fd58ae12219a9d7830b0fc47bc48bd9c"
     },
     {
         "path": "/media/posts/28/Rift-Valley-Salt-Header.png",
@@ -3927,7 +3892,7 @@
     {
         "path": "/restore-your-internal-garden-reclaim-your-health/index.html",
         "type": "file",
-        "md5": "c1cb195eb1d37ba9b64df02b8a36df92"
+        "md5": "5fb261e5c74dda8d9de3898b3c191bf6"
     },
     {
         "path": "restore-your-internal-garden-reclaim-your-health/progress-tracking-templates",
@@ -3947,7 +3912,7 @@
     {
         "path": "/rift-valley-alkaline-salt/index.html",
         "type": "file",
-        "md5": "61a131afecf360198f1675ccd529357c"
+        "md5": "48d727c1439e7b3d8cc8cfaf54a60842"
     },
     {
         "path": "robots.txt",
@@ -3992,7 +3957,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "f4be224d7a12440d14ccf59de8905fbd"
+        "md5": "7e3790d6ecf5cede6b576ddeff932ce6"
     },
     {
         "path": "sitemap.xsl",
@@ -4177,7 +4142,7 @@
     {
         "path": "/volunteer-opportunity-case-study-writer/index.html",
         "type": "file",
-        "md5": "489ee516d2526a753b02f7faf481a85b"
+        "md5": "bbab96ac4d6e47fae6c1bf7b10b0b356"
     },
     {
         "path": "volunteer-opportunity-literature-review-assistant",
@@ -4197,6 +4162,6 @@
     {
         "path": "/what-mineral-rotation-achieves/index.html",
         "type": "file",
-        "md5": "5ca48fe2e9ace89613252a0b7a565c9a"
+        "md5": "ee729d94e02f838379111c69d3e27f81"
     }
 ]
